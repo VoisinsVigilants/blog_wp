@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Custom Auto Excerpt\n"
+"POT-Creation-Date: 2013-11-28 18:17+0700\n"
+"PO-Revision-Date: 2013-11-28 18:20+0700\n"
+"Last-Translator: Todi Adiyatmo Wijoyo <todiadiyatmo@tonjoo.com>\n"
+"Language-Team: Tonjoo <todiadiyatmo@gmail.com>\n"
+"Language: Indonesia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../options-page.php:22
+msgid "Tonjoo Easy Custom Auto Excerpt Options Page"
+msgstr "Halaman Opsi Tonjoo Easy Custom Auto Excerpt"
+
+#: ../options-page.php:59
+msgid "Tonjoo Easy Custom Auto Excerpt Options"
+msgstr "Opsi Tonjoo Easy Custom Auto Excerpt"
+
+#: ../options-page.php:64
+msgid "Easy Custom Auto Excerpt by"
+msgstr "Easy Custom Auto Excerpt oleh"
+
+#: ../options-page.php:65
+msgid "Plugin Page"
+msgstr "Halaman Plugin"
+
+#: ../options-page.php:66
+msgid "Please Rate :)"
+msgstr "Berikan Rating :)"
+
+#: ../options-page.php:67
+msgid "Comment"
+msgstr "Komentar"
+
+#: ../options-page.php:67
+msgid "Bug Report"
+msgstr "Laporkan Bug"
+
+#: ../options-page.php:68
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../options-page.php:69
+msgid "Donate Us"
+msgstr "Berikan Donasi"
+
+#: ../options-page.php:89
+msgid "Excerpt Size"
+msgstr "Ukuran Excerpt"
+
+#: ../options-page.php:90
+msgid "Excerpt lenght, word will be preserved"
+msgstr "Panjang Excerpt, kata tidak akan dipotong"
+
+#: ../options-page.php:100 ../options-page.php:130 ../options-page.php:151
+#: ../options-page.php:172 ../options-page.php:183
+msgid "No"
+msgstr "Tidak"
+
+#: ../options-page.php:104
+msgid "Show All Images"
+msgstr "Perlihatkan semua gambar"
+
+#: ../options-page.php:108
+msgid "Show only First Image"
+msgstr "Perlihatkan gambar pertama"
+
+#: ../options-page.php:112
+msgid "Use Featured Image"
+msgstr "Gunakan Featured Image"
+
+#: ../options-page.php:119
+msgid "Display Image in excerpt"
+msgstr "Perlihatkan Gambar Pada Excerpt"
+
+#: ../options-page.php:134 ../options-page.php:155 ../options-page.php:176
+msgid "Yes"
+msgstr "Ya"
+
+#: ../options-page.php:141
+msgid "Display featured image if post excerpt is set"
+msgstr "Perlihatkan featured image jika post excerpt di set"
+
+#: ../options-page.php:161
+msgid "If you select 'yes' any shortcode will be ommited from the excerpt"
+msgstr "Jika pilih 'ya' maka shortcode akan dibuang dari excerpt"
+
+#: ../options-page.php:162
+msgid "Strip shortcode in excerpt"
+msgstr "Hilangkan shortcode pade Excerpt"
+
+#: ../options-page.php:187
+msgid "Left"
+msgstr "Kiri"
+
+#: ../options-page.php:191
+msgid "Right"
+msgstr "Kanan"
+
+#: ../options-page.php:195
+msgid "Justify"
+msgstr "Rata"
+
+#: ../options-page.php:199
+msgid "Center"
+msgstr "Tengah"
+
+#: ../options-page.php:207
+msgid "Home Excerpt"
+msgstr "Excerpt Home"
+
+#: ../options-page.php:215
+msgid "Archive Excerpt"
+msgstr "Excerpt Arsip"
+
+#: ../options-page.php:223
+msgid "Search Excerpt"
+msgstr "Excerpt Pencarian"
+
+#: ../options-page.php:230
+msgid "The plugin will try to align the text on the excerpt page"
+msgstr "Plugin ini akan mencoba untuk meratakan text pada excerpt"
+
+#: ../options-page.php:231
+msgid "Text Align"
+msgstr "Rata Text"
+
+#: ../options-page.php:243
+msgid ""
+"Read More Text.If you do not want read more, fill with \"-\" (without quote)"
+msgstr ""
+"Text Read More.Jika tidak ingin ada text read more, isi dengan \"-\" (tanpa "
+"petik)"
+
+#: ../options-page.php:254
+msgid "Save Options"
+msgstr "Simpan Opsi"
+
+#: ../options-page.php:257
+msgid ""
+"If you have any questions,comment or suggestion please contact us via support"
+"[at]tonjoo.com or "
+msgstr "Jika memiliki pertanyaan kirimkan email ke support[at]tonjoo.com atau"
+
+#: ../options-page.php:257
+msgid "visit our plugin site"
+msgstr "kunjungi laman plugin kami"

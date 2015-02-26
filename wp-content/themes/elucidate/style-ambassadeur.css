@@ -1,0 +1,256 @@
+/*
+Theme Name: Elucidate
+Theme URI: https://github.com/chrisdc/elucidate
+Author: Christopher Crouch
+Description: A simple, clean theme with an emphasis on typography and white space. Elucidate is a fully responsive, mobile first theme based on Underscores.
+Version: 1.1
+License: GNU General Public License
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: elucidate
+Domain Path: /languages/
+Tags: black, red, two-columns, right-sidebar, custom-background, custom-header, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
+*/
+
+@import url("../elucidate/style.css");
+
+.hentry {
+    border-bottom: 0px solid #ccc;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.description-ambassadeur {
+    font-family: 'Calibri', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #808080;
+
+}
+
+.comment-read-more-img {
+    bottom: 0;
+}
+.comment-read-more {
+/*border: solid 1px #000;*/
+    position: inherit;
+}
+
+.comment-ambassadeur {
+    float: none;
+    width: 100%;
+}
+
+.read-more-ambassadeur {
+    float: none;
+    width: 100%;
+}
+
+.comment-ambassadeur img{
+    width: 13px;
+}
+
+.comment-ambassadeur a{
+    color : #818181;
+    font-family: 'Calibri';
+    font-style: italic;
+    font-size: 14px;
+}
+
+.entry-header h1 {
+    font-family: 'Calibri', sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    text-transform : uppercase;
+
+}
+
+.entry-header {
+    margin-bottom: 15px;
+/*border: solid 1px #000;*/
+}
+
+.entry-title-img {
+    margin-bottom: 15px;
+}
+
+.article-ambassadeur {
+    border: 1px solid #C9C8D1;
+    padding: 15px 25px;
+    padding-right: 25px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px #b2b2b2 ;
+}
+.article-ambassadeur img {
+
+}
+
+.post-img {
+    float: none;
+    width: 100%;
+    margin-right: inherit;
+    text-align: center;
+}
+
+/*.entry-header {*/
+    /*margin: 0px 15px;*/
+/*}*/
+.entry {
+    float: none;
+    width: 100%;
+}
+
+.entry-title {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.entry-content {
+    margin-top: 0;
+    /*margin: 0 15px;*/
+    overflow: hidden;
+    height: 105px;
+}
+
+.entry-content p{
+    padding-right: 10px;
+    font-size: 14px;
+    color: #818181;
+}
+
+.nom-prenom {
+    font-family: 'Lao-bold', sans-serif;
+    text-align: center;
+    text-transform : uppercase;
+    font-size: smaller;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.button .read-more-ambassadeur {
+    position: absolute;
+    right: 0;
+}
+
+.read-more-ambassadeur a{
+    font-family: 'Calibri';
+    text-transform : uppercase;
+    background-color: #000;
+}
+
+.read-more-ambassadeur a:hover{
+    font-family: 'Calibri';
+    font-weight: bold;
+    color: #fff;
+    background-color: #FBC400;
+}
+
+#masthead {
+    margin-bottom: 0;
+}
+
+.entry-header-img {
+    float: none;
+    text-align: left;
+    width: 100%;
+/*border: solid 1px #000;*/
+}
+
+.img-profil-ambassadeur {
+    text-align: center;
+}
+
+.entry-content h1 {
+	line-height: 21px;
+	font-size: 14px;
+	color: #818181;
+	margin:0;
+}
+.entry-content h2 {
+	line-height: 21px;
+	font-size: 14px;
+	color: #818181;
+	margin:0;
+}
+.entry-content h3 {
+	line-height: 21px;
+	font-size: 14px;
+	color: #818181;
+	margin:0;
+}
+.entry-content h4 {
+	line-height: 21px;
+	font-size: 14px;
+	color: #818181;
+	margin:0;
+}
+.entry-content h5 {
+	line-height: 21px;
+	font-size: 14px;
+	color: #818181;
+	margin:0;
+}
+.entry-content h6 {
+	line-height: 21px;
+	font-size: 14px;
+	color: #818181;
+	margin:0;
+}
+
+@media screen and (min-width: 810px) {
+
+    .entry-header-img {
+        float: left;
+        text-align: left;
+        width: 48.5%;
+    	/*height : 200px;*/
+/*border: solid 1px #000;*/
+    }
+
+    .post-img {
+        float: left;
+        width: 50%;
+        margin-right: 1.5%;
+    	height:195px;
+    }
+
+    .entry {
+/*border: solid 1px #000;*/
+    }
+
+    .article-ambassadeur {
+        border: 1px solid #C9C8D1;
+        padding: 15px 25px;
+        padding-right: 25px;
+        margin-bottom: 0;
+        /*height: 190px;*/
+        margin-top: 20px;
+        box-shadow: 3px 3px 3px #b2b2b2 ;
+    }
+    .entry-title {
+        text-align: left;
+        margin-bottom: 0;
+    }
+
+    .comment-ambassadeur {
+        float: left;
+        width: 70%;
+    }
+
+    .read-more-ambassadeur {
+        float: left;
+        width: 30%;
+    }
+
+    .entry-title-img {
+        margin-bottom: 0;
+    }
+    .comment-read-more-img {
+        bottom: -10px;
+    }
+
+    .comment-read-more {
+        position: relative;
+        height: 35px;
+    	bottom: -10px;
+    }
+}

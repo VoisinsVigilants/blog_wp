@@ -1,0 +1,37 @@
+.ecae-image a, .ecae-image img {
+	width: inherit;
+}
+
+.ecae-table-left {
+	display:table;
+}
+
+.ecae-table-right {
+	display:table;
+	direction: rtl;
+}
+
+.ecae-table-left .ecae-table-cell {
+	display:table-cell;
+	vertical-align:top;
+}
+
+.ecae-table-right .ecae-table-cell {
+	display:table-cell;
+	vertical-align:top;
+	direction: ltr;
+}
+
+
+/* Responsive media screen */
+@media screen and (max-width : 768px) {
+	/* Styles */
+	.ecae-table-left, .ecae-table-right {
+		display:block !important;		
+	}
+
+	.ecae-table-cell {
+		display:block !important;
+		margin-right:auto !important;
+	}
+}

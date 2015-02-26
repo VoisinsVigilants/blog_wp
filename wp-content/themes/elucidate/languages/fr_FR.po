@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elucidate v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-07 10:01:52+0000\n"
+"Last-Translator: clement <clement@voisinsvigilants.dev>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ elucidate
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Cette page est introuvable."
+
+#: 404.php:19
+#@ elucidate
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "On dirait que rien n'a été trouvé à cet endroit. Peut-être essayer un des liens ci-dessous ou faites une recherche?"
+
+#: 404.php:27
+#@ elucidate
+msgid "Most Used Categories"
+msgstr "Les catégories les plus utilisées"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+#, php-format
+#@ elucidate
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#: archive.php:31
+#, php-format
+#@ elucidate
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: archive.php:39
+#, php-format
+#@ elucidate
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: archive.php:42
+#, php-format
+#@ elucidate
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: archive.php:45
+#, php-format
+#@ elucidate
+msgid "Year: %s"
+msgstr "Année: %s"
+
+#: archive.php:48
+#@ elucidate
+msgid "Asides"
+msgstr ""
+
+#: archive.php:51
+#@ elucidate
+msgid "Images"
+msgstr ""
+
+#: archive.php:54
+#@ elucidate
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:57
+#@ elucidate
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:60
+#@ elucidate
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:63
+#: sidebar.php:76
+#@ elucidate
+msgid "Archives"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+#@ elucidate
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:36
+#: comments.php:56
+#@ elucidate
+msgid "Comment navigation"
+msgstr "Commentaire navigation"
+
+#: comments.php:37
+#: comments.php:57
+#@ elucidate
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:38
+#: comments.php:58
+#@ elucidate
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires les plus récents &rarr;"
+
+#: comments.php:68
+#@ elucidate
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: content-image.php:11
+#: content-quote.php:11
+#: content.php:32
+#@ elucidate
+msgid "Sticky Post"
+msgstr ""
+
+#: content-image.php:35
+#: content-quote.php:29
+#@ elucidate
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-image.php:38
+#: content-page.php:23
+#: content-quote.php:32
+#: content.php:56
+#: image.php:58
+#@ elucidate
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-image.php:48
+#: content-page.php:28
+#: content-quote.php:41
+#: image.php:32
+#: image.php:64
+#: inc/template-tags.php:71
+#: inc/template-tags.php:90
+#: page-templates/front-page.php:36
+#@ elucidate
+msgid "Edit"
+msgstr "Modifier"
+
+#: content.php:39
+#@ elucidate
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: content.php:39
+#@ elucidate
+msgid "% Comments"
+msgstr "% commentaires"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:72
+#: inc/template-tags.php:248
+#@ _s
+msgid ", "
+msgstr ""
+
+#: functions.php:50
+#@ elucidate
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:51
+#@ elucidate
+msgid "Social Media Menu"
+msgstr "Menu médias sociaux"
+
+#: functions.php:86
+#@ elucidate
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:88
+#@ elucidate
+msgid "The default sidebar that appears on the majority of pages"
+msgstr "La barre latérale qui apparaît par défaut sur ​​la plupart des pages"
+
+#: functions.php:96
+#@ elucidate
+msgid "Front Page Widget 1"
+msgstr "Front Page Widget 1"
+
+#: functions.php:98
+#@ elucidate
+msgid "The first (leftmost) sidebar used by front-page.php"
+msgstr "Le premier (à gauche) encadré utilisés par le front-page.php"
+
+#: functions.php:106
+#@ elucidate
+msgid "Front Page Widget 2"
+msgstr "Front Page Widget 2"
+
+#: functions.php:108
+#@ elucidate
+msgid "The second (central) sidebar used by front-page.php"
+msgstr "La deuxième barre latérale (central) utilisés par le front-page.php"
+
+#: functions.php:116
+#@ elucidate
+msgid "Front Page Widget 3"
+msgstr "Front Page Widget 3"
+
+#: functions.php:118
+#@ elucidate
+msgid "The third (rightmost) sidebar used by front-page.php"
+msgstr "La troisième barre latérale (à droite) utilisés par le front-page.php"
+
+#: functions.php:136
+#@ elucidate
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: image.php:22
+#, php-format
+#@ elucidate
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "publié <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> à <a href=\"%3$s\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:37
+#@ elucidate
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#: image.php:38
+#@ elucidate
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/extras.php:72
+#, php-format
+#@ elucidate
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:34
+#@ elucidate
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:38
+#@ elucidate
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:39
+#@ elucidate
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:44
+#@ elucidate
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Messages plus anciens"
+
+#: inc/template-tags.php:48
+#@ elucidate
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:71
+#@ elucidate
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+#@ elucidate
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/template-tags.php:94
+#@ elucidate
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: inc/template-tags.php:174
+#@ elucidate
+msgid "by"
+msgstr "par"
+
+#: no-results.php:13
+#@ elucidate
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: no-results.php:19
+#, php-format
+#@ elucidate
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: no-results.php:23
+#@ elucidate
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos termes de recherche. S'il vous plaît essayer de nouveau avec quelques mots-clés différents."
+
+#: no-results.php:28
+#@ elucidate
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous ne pouvons pas trouver ce que vous cherchez. Peut-être que la recherche peut vous aider."
+
+#: search.php:16
+#, php-format
+#@ elucidate
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour: %s"
+
+#: searchform.php:10
+#@ elucidate
+msgctxt "label"
+msgid "Search for:"
+msgstr "Rechercher:"
+
+#: searchform.php:11
+#@ elucidate
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Recherche &hellip;"
+
+#: searchform.php:13
+#@ elucidate
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: sidebar.php:83
+#@ elucidate
+msgid "Meta"
+msgstr ""
+
+#: content.php:64
+#@ elucidate
+msgid "Back"
+msgstr "Retour"
+
+#: header.php:43
+#@ elucidate
+msgid "Discover all the blog links to the device Voisins Vigilant"
+msgstr "Découvrez tous les blogs en lien avec le dispositif Voisins Vigilants"
+

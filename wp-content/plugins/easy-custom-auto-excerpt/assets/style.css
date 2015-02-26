@@ -1,0 +1,14 @@
+/**
+ * Ace editor
+ */
+#ace-editor { 
+    width: 100%;
+    height:350px;
+    margin-left: auto;
+	padding-right: 10px;
+	font-size: 16px;
+}
+
+#ace_editor_value {
+	display: none;
+}

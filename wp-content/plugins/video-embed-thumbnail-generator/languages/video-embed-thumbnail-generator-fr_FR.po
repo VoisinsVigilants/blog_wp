@@ -1,0 +1,2466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Video Embed & Thumbnail Generator\n"
+"POT-Creation-Date: 2014-07-09 18:53+0100\n"
+"PO-Revision-Date: 2014-07-09 19:08+0100\n"
+"Last-Translator: Friss <friss.designs@gmail.com>\n"
+"Language-Team: Friss <friss.designs@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../languages/video-embed-thumbnail-generator.php:207
+#: ../video-embed-thumbnail-generator.php:207
+msgid "Replace original with H.264"
+msgstr "Remplacer l'original par une version encodée en H.264"
+
+#: ../languages/video-embed-thumbnail-generator.php:353
+#: ../video-embed-thumbnail-generator.php:353
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../languages/video-embed-thumbnail-generator.php:361
+#: ../video-embed-thumbnail-generator.php:361
+msgid "Network Settings"
+msgstr "Réglages Réseaux"
+
+#: ../languages/video-embed-thumbnail-generator.php:1126
+#: ../video-embed-thumbnail-generator.php:1126
+msgctxt "please wait"
+msgid "Wait"
+msgstr "Veuillez Patienter"
+
+#: ../languages/video-embed-thumbnail-generator.php:1127
+#: ../video-embed-thumbnail-generator.php:1127
+msgid "Hide video..."
+msgstr "Cacher la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:1128
+#: ../languages/video-embed-thumbnail-generator.php:3707
+#: ../video-embed-thumbnail-generator.php:1128
+#: ../video-embed-thumbnail-generator.php:3707
+msgid "Choose from video..."
+msgstr "Choisir depuis les vidéos"
+
+#: ../languages/video-embed-thumbnail-generator.php:1129
+#: ../video-embed-thumbnail-generator.php:1129
+msgid "Can't load video"
+msgstr "Impossible de charger la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:1130
+#: ../video-embed-thumbnail-generator.php:1130
+msgid "Choose Thumbnail:"
+msgstr "Choix de la vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:1131
+#: ../video-embed-thumbnail-generator.php:1131
+msgid "Save All Thumbnails"
+msgstr "Sauvegarder toutes les vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:1132
+#: ../video-embed-thumbnail-generator.php:1132
+msgid "Saving..."
+msgstr "En cours de sauvegarde..."
+
+#: ../languages/video-embed-thumbnail-generator.php:1133
+#: ../video-embed-thumbnail-generator.php:1133
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: ../languages/video-embed-thumbnail-generator.php:1134
+#: ../languages/video-embed-thumbnail-generator.php:4344
+#: ../video-embed-thumbnail-generator.php:1134
+#: ../video-embed-thumbnail-generator.php:4344
+msgid "Generate"
+msgstr "Générer"
+
+#: ../languages/video-embed-thumbnail-generator.php:1135
+#: ../languages/video-embed-thumbnail-generator.php:4345
+#: ../video-embed-thumbnail-generator.php:1135
+#: ../video-embed-thumbnail-generator.php:4345
+msgid "Randomize"
+msgstr "Mélanger"
+
+#: ../languages/video-embed-thumbnail-generator.php:1136
+#: ../video-embed-thumbnail-generator.php:1136
+#, php-format
+msgid "%s not found"
+msgstr "%s non trouvé"
+
+#: ../languages/video-embed-thumbnail-generator.php:1137
+#: ../video-embed-thumbnail-generator.php:1137
+msgid ""
+"Please enter a URL that points to a valid video file. Video sharing sites "
+"are not supported by this plugin.\n"
+"To embed from YouTube, Vimeo, etc, just paste the link directly into the "
+"post window and WordPress will handle the rest."
+msgstr ""
+"Veuillez entrer un URL pointant vers un fichier vidéo valide. Ce plugin ne "
+"prend pas en charge les sites de partage de vidéos.\n"
+"\vAfin d'intégrer une vidéo YouTube, Vimeo, etc... Il vous suffit de copier/"
+"coller le lien de la vidéo directement dans la fenêtre de rédaction de votre "
+"post et Wordpress se charge du reste."
+
+#: ../languages/video-embed-thumbnail-generator.php:1138
+#: ../languages/video-embed-thumbnail-generator.php:1875
+#: ../languages/video-embed-thumbnail-generator.php:4344
+#: ../languages/video-embed-thumbnail-generator.php:4345
+#: ../languages/video-embed-thumbnail-generator.php:4379
+#: ../video-embed-thumbnail-generator.php:1138
+#: ../video-embed-thumbnail-generator.php:1875
+#: ../video-embed-thumbnail-generator.php:4344
+#: ../video-embed-thumbnail-generator.php:4345
+#: ../video-embed-thumbnail-generator.php:4379
+msgid "Please enter a valid video URL"
+msgstr "Veuillez entrer une URL valide"
+
+#: ../languages/video-embed-thumbnail-generator.php:1139
+#: ../video-embed-thumbnail-generator.php:1139
+msgid ""
+"You are about to permanently delete the encoded video.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Vous êtes sur le point de supprimer définitivement la vidéo encodée.\n"
+"\v'Annuler' pour arrêter, 'OK' pour confirmer."
+
+#: ../languages/video-embed-thumbnail-generator.php:1140
+#: ../video-embed-thumbnail-generator.php:1140
+msgid "Saved."
+msgstr "Sauvegardé."
+
+#: ../languages/video-embed-thumbnail-generator.php:1141
+#: ../video-embed-thumbnail-generator.php:1141
+msgid "Running test..."
+msgstr "Phase de test en cours..."
+
+#: ../languages/video-embed-thumbnail-generator.php:1142
+#: ../video-embed-thumbnail-generator.php:1142
+msgid "FFMPEG or LIBAV required for these functions."
+msgstr "Ces fonctionalités requièrenet les bibliothèques FFMPEG ou LIBAV."
+
+#: ../languages/video-embed-thumbnail-generator.php:1143
+#: ../video-embed-thumbnail-generator.php:1143
+msgid ""
+"You are about to set all existing video thumbnails previously generated by "
+"this plugin as the featured images for their posts. There is no 'undo' "
+"button, so proceed at your own risk."
+msgstr ""
+"Toutes les vignettes de vidéo générées par le plugin vont être définies en "
+"tant qu'image à la une pour leur post respectifs. Vous ne pourrez pas "
+"annuler, agissez en connaissance de cause."
+
+#: ../languages/video-embed-thumbnail-generator.php:1144
+#: ../video-embed-thumbnail-generator.php:1144
+msgid "'Cancel' to stop, 'OK' to proceed."
+msgstr "'Annuler' pour arrêter, 'OK' pour confirmer."
+
+#: ../languages/video-embed-thumbnail-generator.php:1145
+#: ../video-embed-thumbnail-generator.php:1145
+msgid "Processing..."
+msgstr "En cours d'execution..."
+
+#: ../languages/video-embed-thumbnail-generator.php:1146
+#: ../video-embed-thumbnail-generator.php:1146
+msgid ""
+"You are about to set all existing video thumbnails previously generated by "
+"this plugin as attachments of their posts rather than their associated "
+"videos. Proceed at your own risk."
+msgstr ""
+"Toutes les vignettes de vidéo générées par le plugin vont être définies en "
+"tant que pièce jointe de leur post respectif au lieu de vidéo associée. "
+"Agissez en connaissance de cause."
+
+#: ../languages/video-embed-thumbnail-generator.php:1147
+#: ../video-embed-thumbnail-generator.php:1147
+msgid ""
+"You are about to set all existing video thumbnails previously generated by "
+"this plugin as attachments of their videos rather than their associated "
+"posts. Proceed at your own risk."
+msgstr ""
+"Toutes les vignettes de vidéo générées par le plugin vont être définies en "
+"tant que pièce jointe de leur vidéo respective au lieu de l'être à leurs "
+"post associés. Agissez en connaissance de cause."
+
+#: ../languages/video-embed-thumbnail-generator.php:1148
+#: ../video-embed-thumbnail-generator.php:1148
+msgid "Complete"
+msgstr "Terminé"
+
+#: ../languages/video-embed-thumbnail-generator.php:1149
+#: ../languages/video-embed-thumbnail-generator.php:3783
+#: ../languages/video-embed-thumbnail-generator.php:4371
+#: ../video-embed-thumbnail-generator.php:1149
+#: ../video-embed-thumbnail-generator.php:3783
+#: ../video-embed-thumbnail-generator.php:4371
+msgid "Track type:"
+msgstr "Type de piste:"
+
+#: ../languages/video-embed-thumbnail-generator.php:1150
+#: ../languages/video-embed-thumbnail-generator.php:3774
+#: ../languages/video-embed-thumbnail-generator.php:4371
+#: ../video-embed-thumbnail-generator.php:1150
+#: ../video-embed-thumbnail-generator.php:3774
+#: ../video-embed-thumbnail-generator.php:4371
+msgid "subtitles"
+msgstr "sous-titres"
+
+#: ../languages/video-embed-thumbnail-generator.php:1151
+#: ../languages/video-embed-thumbnail-generator.php:3774
+#: ../languages/video-embed-thumbnail-generator.php:4371
+#: ../video-embed-thumbnail-generator.php:1151
+#: ../video-embed-thumbnail-generator.php:3774
+#: ../video-embed-thumbnail-generator.php:4371
+msgid "captions"
+msgstr "légendes"
+
+#: ../languages/video-embed-thumbnail-generator.php:1152
+#: ../languages/video-embed-thumbnail-generator.php:3774
+#: ../languages/video-embed-thumbnail-generator.php:4371
+#: ../video-embed-thumbnail-generator.php:1152
+#: ../video-embed-thumbnail-generator.php:3774
+#: ../video-embed-thumbnail-generator.php:4371
+msgid "chapters"
+msgstr "chapitres"
+
+#: ../languages/video-embed-thumbnail-generator.php:1153
+#: ../languages/video-embed-thumbnail-generator.php:3784
+#: ../video-embed-thumbnail-generator.php:1153
+#: ../video-embed-thumbnail-generator.php:3784
+msgid "Choose a Text File"
+msgstr "Choix à partir d'un fichier texte"
+
+#: ../languages/video-embed-thumbnail-generator.php:1154
+#: ../languages/video-embed-thumbnail-generator.php:3784
+#: ../video-embed-thumbnail-generator.php:1154
+#: ../video-embed-thumbnail-generator.php:3784
+msgid "Set as track source"
+msgstr "Définir en tant que piste par défaut."
+
+#: ../languages/video-embed-thumbnail-generator.php:1155
+#: ../languages/video-embed-thumbnail-generator.php:2576
+#: ../languages/video-embed-thumbnail-generator.php:2582
+#: ../languages/video-embed-thumbnail-generator.php:2588
+#: ../languages/video-embed-thumbnail-generator.php:2916
+#: ../languages/video-embed-thumbnail-generator.php:3739
+#: ../languages/video-embed-thumbnail-generator.php:3784
+#: ../video-embed-thumbnail-generator.php:1155
+#: ../video-embed-thumbnail-generator.php:2576
+#: ../video-embed-thumbnail-generator.php:2582
+#: ../video-embed-thumbnail-generator.php:2588
+#: ../video-embed-thumbnail-generator.php:2916
+#: ../video-embed-thumbnail-generator.php:3739
+#: ../video-embed-thumbnail-generator.php:3784
+msgid "Choose from Library"
+msgstr "Choix depuis la bibliothèque"
+
+#: ../languages/video-embed-thumbnail-generator.php:1156
+#: ../languages/video-embed-thumbnail-generator.php:4371
+#: ../video-embed-thumbnail-generator.php:1156
+#: ../video-embed-thumbnail-generator.php:4371
+msgid "Language code:"
+msgstr "Code Langue:"
+
+#: ../languages/video-embed-thumbnail-generator.php:1157
+#: ../video-embed-thumbnail-generator.php:1157
+msgctxt "noun"
+msgid "Label:"
+msgstr "Label:"
+
+#: ../languages/video-embed-thumbnail-generator.php:1190
+#: ../video-embed-thumbnail-generator.php:1190
+msgctxt "noun for Google Analytics event"
+msgid "Play Start"
+msgstr "Lire"
+
+#: ../languages/video-embed-thumbnail-generator.php:1191
+#: ../video-embed-thumbnail-generator.php:1191
+msgctxt "noun for Google Analytics event"
+msgid "Complete View"
+msgstr "Vue complète"
+
+#: ../languages/video-embed-thumbnail-generator.php:1192
+#: ../video-embed-thumbnail-generator.php:1192
+msgctxt "button text to play next video"
+msgid "Next"
+msgstr "Suivant"
+
+#: ../languages/video-embed-thumbnail-generator.php:1193
+#: ../video-embed-thumbnail-generator.php:1193
+msgctxt "button text to play previous video"
+msgid "Previous"
+msgstr "Précèdent"
+
+#: ../languages/video-embed-thumbnail-generator.php:1638
+#: ../video-embed-thumbnail-generator.php:1638
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s vue"
+msgstr[1] "%s vues"
+
+#: ../languages/video-embed-thumbnail-generator.php:1643
+#: ../video-embed-thumbnail-generator.php:1643
+msgid "Right-click or ctrl-click on this link to download"
+msgstr "'Click-droit' ou 'ctrl-click' sur le lien pour télécharger le fichier"
+
+#: ../languages/video-embed-thumbnail-generator.php:1659
+#: ../video-embed-thumbnail-generator.php:1659
+msgctxt "precedes code for embedding video"
+msgid "Embed:"
+msgstr "Intégration:"
+
+#: ../languages/video-embed-thumbnail-generator.php:1880
+#: ../video-embed-thumbnail-generator.php:1880
+#, php-format
+msgctxt "ex: FFMPEG not found at /usr/local/bin"
+msgid "%1$s not found at %2$s"
+msgstr "%1$s non trouvé à %2$s"
+
+#: ../languages/video-embed-thumbnail-generator.php:1943
+#: ../video-embed-thumbnail-generator.php:1943
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: ../languages/video-embed-thumbnail-generator.php:1955
+#: ../video-embed-thumbnail-generator.php:1955
+msgid "Currently encoding"
+msgstr "En cours d'encodage"
+
+#: ../languages/video-embed-thumbnail-generator.php:1962
+#: ../video-embed-thumbnail-generator.php:1962
+msgid "Format already exists"
+msgstr "Ce format existe déjà"
+
+#: ../languages/video-embed-thumbnail-generator.php:1969
+#: ../video-embed-thumbnail-generator.php:1969
+msgid "You don't have permission to encode videos"
+msgstr "Vous n'avez pas les permissions pour encoder les vidéos"
+
+#: ../languages/video-embed-thumbnail-generator.php:1977
+#: ../video-embed-thumbnail-generator.php:1977
+msgid "Nothing to encode"
+msgstr "Rien à encoder"
+
+#: ../languages/video-embed-thumbnail-generator.php:1981
+#: ../video-embed-thumbnail-generator.php:1981
+msgctxt "Button text"
+msgid "Update"
+msgstr "Mise à jour"
+
+#: ../languages/video-embed-thumbnail-generator.php:1984
+#: ../video-embed-thumbnail-generator.php:1984
+msgctxt "Button text"
+msgid "Encode"
+msgstr "Encoder"
+
+#: ../languages/video-embed-thumbnail-generator.php:1990
+#: ../video-embed-thumbnail-generator.php:1990
+msgid ""
+"Generates additional video formats compatible with most mobile & HTML5-"
+"compatible browsers"
+msgstr ""
+"Générer des vidéos supplémentaires aux formats compatibles avec la plupart "
+"des navigateurs mobiles & HTML5."
+
+#: ../languages/video-embed-thumbnail-generator.php:2015
+#: ../video-embed-thumbnail-generator.php:2015
+msgctxt "noun, column header"
+msgid "Order"
+msgstr "Ordre"
+
+#: ../languages/video-embed-thumbnail-generator.php:2016
+#: ../video-embed-thumbnail-generator.php:2016
+msgctxt "username, column header"
+msgid "User"
+msgstr "Utilisateur"
+
+#: ../languages/video-embed-thumbnail-generator.php:2017
+#: ../video-embed-thumbnail-generator.php:2017
+msgctxt "noun, column header"
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:2018
+#: ../video-embed-thumbnail-generator.php:2018
+msgctxt "noun, column header"
+msgid "File"
+msgstr "Fichier"
+
+#: ../languages/video-embed-thumbnail-generator.php:2019
+#: ../video-embed-thumbnail-generator.php:2019
+msgctxt "noun, column header"
+msgid "Formats"
+msgstr "Formats"
+
+#: ../languages/video-embed-thumbnail-generator.php:2020
+#: ../video-embed-thumbnail-generator.php:2020
+msgctxt "noun, column header"
+msgid "Actions"
+msgstr "Actions"
+
+#: ../languages/video-embed-thumbnail-generator.php:2024
+#: ../video-embed-thumbnail-generator.php:2024
+msgctxt "multisite site name, column header"
+msgid "Site"
+msgstr "Site"
+
+#: ../languages/video-embed-thumbnail-generator.php:2140
+#: ../video-embed-thumbnail-generator.php:2140
+msgid "Other user's video"
+msgstr "Autres vidéos de l'utilisateur"
+
+#: ../languages/video-embed-thumbnail-generator.php:2144
+#: ../video-embed-thumbnail-generator.php:2144
+msgid "Queue is empty"
+msgstr "La file d'attente est vide"
+
+#: ../languages/video-embed-thumbnail-generator.php:2153
+#: ../languages/video-embed-thumbnail-generator.php:2160
+#: ../video-embed-thumbnail-generator.php:2153
+#: ../video-embed-thumbnail-generator.php:2160
+msgctxt "Tools page title"
+msgid "Video Embed & Thumbnail Generator Encoding Queue"
+msgstr "Video Embed & Thumbnail Generator - Encodage en attente"
+
+#: ../languages/video-embed-thumbnail-generator.php:2153
+#: ../video-embed-thumbnail-generator.php:2153
+msgctxt "Title in admin sidebar"
+msgid "Video Encode Queue"
+msgstr "File d'attente d'encodage"
+
+#: ../languages/video-embed-thumbnail-generator.php:2160
+#: ../video-embed-thumbnail-generator.php:2160
+msgctxt "Title in network admin sidebar"
+msgid "Network Video Encode Queue"
+msgstr "Encodage en attente pour les Vidéos en réseau (déjà en ligne)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2170
+#: ../video-embed-thumbnail-generator.php:2170
+msgid "Video Embed & Thumbnail Generator Encoding Queue"
+msgstr "Video Embed & Thumbnail Generator - Encodage en attente"
+
+#: ../languages/video-embed-thumbnail-generator.php:2187
+#: ../video-embed-thumbnail-generator.php:2187
+msgid "Clear All Completed"
+msgstr "Retirer de la liste toutes les actions terminées"
+
+#: ../languages/video-embed-thumbnail-generator.php:2195
+#: ../languages/video-embed-thumbnail-generator.php:2320
+#: ../video-embed-thumbnail-generator.php:2195
+#: ../video-embed-thumbnail-generator.php:2320
+msgctxt "Settings page title"
+msgid "Video Embed & Thumbnail Generator"
+msgstr "Video Embed & Thumbnail Generator"
+
+#: ../languages/video-embed-thumbnail-generator.php:2195
+#: ../languages/video-embed-thumbnail-generator.php:2320
+#: ../video-embed-thumbnail-generator.php:2195
+#: ../video-embed-thumbnail-generator.php:2320
+msgctxt "Settings page title in admin sidebar"
+msgid "Video Embed & Thumbnail Generator"
+msgstr "Video Embed & Thumbnail Generator"
+
+#: ../languages/video-embed-thumbnail-generator.php:2231
+#: ../video-embed-thumbnail-generator.php:2231
+msgid ""
+"Video Embed & Thumbnail Generator network settings reset to default values."
+msgstr "Remise par défaut des réglages de Video Embed & Thumbnail Generator."
+
+#: ../languages/video-embed-thumbnail-generator.php:2253
+#: ../video-embed-thumbnail-generator.php:2253
+msgid "Path to applications on the server:"
+msgstr "Adresse des application sur le serveur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2256
+#: ../languages/video-embed-thumbnail-generator.php:2486
+#: ../video-embed-thumbnail-generator.php:2256
+#: ../video-embed-thumbnail-generator.php:2486
+msgid "Application for thumbnails & encoding:"
+msgstr "Application pour les vignettes & l'encodage:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2260
+#: ../languages/video-embed-thumbnail-generator.php:2495
+#: ../video-embed-thumbnail-generator.php:2260
+#: ../video-embed-thumbnail-generator.php:2495
+msgid "Method to fix encoded H.264 headers for streaming:"
+msgstr "Methode pour adapter les entêtes H.264 pour le streaming:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2264
+#: ../languages/video-embed-thumbnail-generator.php:2504
+#: ../video-embed-thumbnail-generator.php:2264
+#: ../video-embed-thumbnail-generator.php:2504
+msgid "FFMPEG legacy options:"
+msgstr "Options d'héritage FFMPEG"
+
+#: ../languages/video-embed-thumbnail-generator.php:2268
+#: ../video-embed-thumbnail-generator.php:2268
+msgid "Execution:"
+msgstr "Execution:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2272
+#: ../video-embed-thumbnail-generator.php:2272
+msgid "User capabilties for new sites:"
+msgstr "Permissions d'utilisateur pour les nouveau sites:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2276
+#: ../video-embed-thumbnail-generator.php:2276
+msgid "Super Admins only:"
+msgstr "Super Admins uniquement:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2282
+#: ../languages/video-embed-thumbnail-generator.php:2347
+#: ../video-embed-thumbnail-generator.php:2282
+#: ../video-embed-thumbnail-generator.php:2347
+msgid "Save Changes"
+msgstr "Sauvegarder les changements"
+
+#: ../languages/video-embed-thumbnail-generator.php:2283
+#: ../languages/video-embed-thumbnail-generator.php:2348
+#: ../video-embed-thumbnail-generator.php:2283
+#: ../video-embed-thumbnail-generator.php:2348
+msgid "Reset Options"
+msgstr "Revenir aux réglages par défaut"
+
+#: ../languages/video-embed-thumbnail-generator.php:2287
+#: ../languages/video-embed-thumbnail-generator.php:2352
+#: ../video-embed-thumbnail-generator.php:2287
+#: ../video-embed-thumbnail-generator.php:2352
+msgid ""
+"If you're getting some use out of this plugin, please consider donating a "
+"few dollars to support its future development."
+msgstr ""
+"Si ce plugin vous est utile dans vos projets, merci d'envisager une donation "
+"de quelques dollars afin de soutenir la poursuite de son développement."
+
+#: ../languages/video-embed-thumbnail-generator.php:2315
+#: ../video-embed-thumbnail-generator.php:2315
+#, php-format
+msgctxt "FFMPEG settings tab"
+msgid "%s settings tab."
+msgstr "onglet réglages de %s"
+
+#: ../languages/video-embed-thumbnail-generator.php:2338
+#: ../video-embed-thumbnail-generator.php:2338
+msgctxt "Adjective, tab title"
+msgid "General"
+msgstr "Général"
+
+#: ../languages/video-embed-thumbnail-generator.php:2339
+#: ../video-embed-thumbnail-generator.php:2339
+#, php-format
+msgctxt "FFMPEG Settings, tab title"
+msgid "%s Settings"
+msgstr "Réglages de %s"
+
+#: ../languages/video-embed-thumbnail-generator.php:2447
+#: ../video-embed-thumbnail-generator.php:2447
+msgid "Default Video Playback Settings"
+msgstr "Réglages de la lecture de vidéos par défaut"
+
+#: ../languages/video-embed-thumbnail-generator.php:2448
+#: ../video-embed-thumbnail-generator.php:2448
+msgid "The following options will only affect Flash playback"
+msgstr "Les options suivantes ne concernent que les lecteurs flash"
+
+#: ../languages/video-embed-thumbnail-generator.php:2449
+#: ../video-embed-thumbnail-generator.php:2449
+msgid "Plugin Settings"
+msgstr "Réglages du plugin"
+
+#: ../languages/video-embed-thumbnail-generator.php:2450
+#: ../video-embed-thumbnail-generator.php:2450
+msgid "Video Encoding Settings"
+msgstr "Paramètres d'encodage"
+
+#: ../languages/video-embed-thumbnail-generator.php:2452
+#: ../video-embed-thumbnail-generator.php:2452
+msgid "Default thumbnail:"
+msgstr "Vignette par défaut:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2453
+#: ../video-embed-thumbnail-generator.php:2453
+msgid "End of video image:"
+msgstr "Image de fin de vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2454
+#: ../video-embed-thumbnail-generator.php:2454
+msgid "Watermark overlay:"
+msgstr "Filigrane en superposition:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2455
+#: ../video-embed-thumbnail-generator.php:2455
+msgid "Video alignment:"
+msgstr "Alignement de la vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2456
+#: ../video-embed-thumbnail-generator.php:2456
+msgid "Automatically resize videos:"
+msgstr "Redimesionner les vidéos automatiquement:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2457
+#: ../video-embed-thumbnail-generator.php:2457
+msgid "Inline videos:"
+msgstr "Vidéos sur la même ligne:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2458
+#: ../video-embed-thumbnail-generator.php:2458
+msgid "Max embedded video dimensions:"
+msgstr "Dimensions maximum de la vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2459
+#: ../video-embed-thumbnail-generator.php:2459
+msgid "Max gallery video dimensions:"
+msgstr "Dimensions maximum de la gallerie vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2460
+#: ../video-embed-thumbnail-generator.php:2460
+msgid "Gallery thumbnail width:"
+msgstr "Largeur de la vignette vidéo pour la gallerie:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2461
+#: ../video-embed-thumbnail-generator.php:2461
+msgid "Video controls:"
+msgstr "Contrôles de la vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2462
+#: ../video-embed-thumbnail-generator.php:2462
+msgid "Autoplay:"
+msgstr "Lancement automatique:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2463
+#: ../video-embed-thumbnail-generator.php:2463
+msgctxt "verb"
+msgid "Loop:"
+msgstr "En boucle:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2464
+#: ../video-embed-thumbnail-generator.php:2464
+msgid "Preload:"
+msgstr "Préchargement:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2465
+#: ../video-embed-thumbnail-generator.php:2465
+msgctxt "CSS class for video skin"
+msgid "Skin class:"
+msgstr "Class pour une skin différente:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2467
+#: ../video-embed-thumbnail-generator.php:2467
+msgid "Background color:"
+msgstr "Couleur d'arrière plan:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2468
+#: ../video-embed-thumbnail-generator.php:2468
+msgid "XML configuration file:"
+msgstr "Fichier XML de configuration:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2469
+#: ../video-embed-thumbnail-generator.php:2469
+msgid "Video skin file:"
+msgstr "Fichier pour skin différent:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2470
+#: ../video-embed-thumbnail-generator.php:2470
+msgid "Video stream type:"
+msgstr "Type de Streaming:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2471
+#: ../video-embed-thumbnail-generator.php:2471
+msgid "Video scale mode:"
+msgstr "Mode de mise à l'échelle de la vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2472
+#: ../video-embed-thumbnail-generator.php:2472
+msgid "Autohide:"
+msgstr "Masquer automatiquement:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2473
+#: ../video-embed-thumbnail-generator.php:2473
+msgid "Play button overlay:"
+msgstr "Bouton de lecture en superposition:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2475
+#: ../video-embed-thumbnail-generator.php:2475
+msgid "Default number of thumbnails to generate:"
+msgstr "Nombre de vignette à générer par défaut:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2476
+#: ../video-embed-thumbnail-generator.php:2476
+msgid "User capabilities:"
+msgstr "Permissions d'utilisateur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2477
+#: ../video-embed-thumbnail-generator.php:2477
+msgid "Video security:"
+msgstr "Sécurité de la vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2478
+#: ../video-embed-thumbnail-generator.php:2478
+msgid "Featured image:"
+msgstr "Image à la une:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2479
+#: ../video-embed-thumbnail-generator.php:2479
+msgid "Attach thumbnails to:"
+msgstr "Joindre une pièce jointe à:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2480
+#: ../video-embed-thumbnail-generator.php:2480
+msgid "Delete associated attachments:"
+msgstr "Supprimer les pièces jointes associées:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2481
+#: ../video-embed-thumbnail-generator.php:2481
+msgid "Video title text HTML formatting:"
+msgstr "Titre des vidéos en HTML:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2482
+#: ../video-embed-thumbnail-generator.php:2482
+msgid "Attachment page design:"
+msgstr "Affichage de la template de pièce jointe:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2485
+#: ../video-embed-thumbnail-generator.php:2485
+msgid "Path to applications folder on server:"
+msgstr "Chemein vers le dossier des applications sur le serveur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2489
+#: ../video-embed-thumbnail-generator.php:2489
+msgid "Enable in-browser thumbnails:"
+msgstr "Activer les vignettes dans le navigateur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2490
+#: ../video-embed-thumbnail-generator.php:2490
+msgid "Default video encode formats:"
+msgstr "Format d'encodage par défaut:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2491
+#: ../video-embed-thumbnail-generator.php:2491
+msgid "Do automatically on upload:"
+msgstr "À faire automatiquement dans la foulée à la suite de l'upload:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2492
+#: ../video-embed-thumbnail-generator.php:2492
+msgid "htaccess login:"
+msgstr "Identifiant htaccess:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2493
+#: ../video-embed-thumbnail-generator.php:2493
+msgid "Add watermark to encoded files:"
+msgstr "Ajouter un filigrane aux vidéos encodées"
+
+#: ../languages/video-embed-thumbnail-generator.php:2497
+#: ../video-embed-thumbnail-generator.php:2497
+msgid "Encode quality control method:"
+msgstr "Methode de controle de qualité d'encodage:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2498
+#: ../video-embed-thumbnail-generator.php:2498
+msgid "Constant Rate Factors (CRF):"
+msgstr "Facteurs de taux constant (Constant Rate Factors (CRF)):"
+
+#: ../languages/video-embed-thumbnail-generator.php:2499
+#: ../video-embed-thumbnail-generator.php:2499
+msgid "Average Bit Rate:"
+msgstr "Taux de bit moyen (Average Bit Rate):"
+
+#: ../languages/video-embed-thumbnail-generator.php:2500
+#: ../video-embed-thumbnail-generator.php:2500
+msgid "H.264 profile:"
+msgstr "Profil H.264:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2501
+#: ../video-embed-thumbnail-generator.php:2501
+msgid "Audio bit rate:"
+msgstr "Bitrate audio:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2505
+#: ../video-embed-thumbnail-generator.php:2505
+msgctxt "program execution options"
+msgid "Execution:"
+msgstr "Exécution:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2508
+#: ../video-embed-thumbnail-generator.php:2508
+msgid "Test FFMPEG:"
+msgstr "Test FFMPEG:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2530
+#: ../languages/video-embed-thumbnail-generator.php:3804
+#: ../video-embed-thumbnail-generator.php:2530
+#: ../video-embed-thumbnail-generator.php:3804
+msgid "WordPress Default"
+msgstr "Lecteur WordPress par défaut"
+
+#: ../languages/video-embed-thumbnail-generator.php:2552
+#: ../video-embed-thumbnail-generator.php:2552
+msgid "(deprecated)"
+msgstr "(déconseillé)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2554
+#: ../video-embed-thumbnail-generator.php:2554
+msgid "Video player:"
+msgstr "Lecteur vidéo:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2559
+#: ../video-embed-thumbnail-generator.php:2559
+msgid ""
+"Video.js is the default player. Users running WordPress 3.6 or higher can "
+"choose the WordPress Default Mediaelement.js player which may already be "
+"skinned to match your theme. If the JW Player WordPress plugin is active it "
+"should be available as a video player. In the past this plugin used Adobe's "
+"Strobe Media Playback Flash player, which hasn't been updated since 2011 and "
+"is not recommended. It should still work, but new plugin functions are not "
+"guaranteed to be compatible."
+msgstr ""
+"'Video.js' est le lecteur par défaut. À partir de WordPress 3.6 vous pouvez "
+"utiliser le lecteur de base, Mediaelement.js qui est peut-être déjà "
+"personnalisé aux couleurs de votre thème. Si le plugin WordPress JWPlayer "
+"est activé, il devrait être disponible en tant que lecteur vidéo. "
+"Auparavant, ce plugin utilisait le Strobe Media Playback Flash player "
+"d'Adobe qui n'est plus mis à jour depuis 2011 et du coup il n'est donc pas "
+"recommandé de l'utiliser. Cela devrait tout de même pouvoir fonctionner, "
+"mais les nouvelles fonctionnalités du plugin risquent de ne pas être "
+"compatibles."
+
+#: ../languages/video-embed-thumbnail-generator.php:2563
+#: ../video-embed-thumbnail-generator.php:2563
+msgid "Overlay video title"
+msgstr "Titre de la vidéo en superposition"
+
+#: ../languages/video-embed-thumbnail-generator.php:2564
+#: ../video-embed-thumbnail-generator.php:2564
+msgid "Overlay embed code"
+msgstr "Code d'intégration superposé"
+
+#: ../languages/video-embed-thumbnail-generator.php:2567
+#: ../video-embed-thumbnail-generator.php:2567
+msgid "Show download link"
+msgstr "Afficher le lien de téléchargement"
+
+#: ../languages/video-embed-thumbnail-generator.php:2568
+#: ../video-embed-thumbnail-generator.php:2568
+msgid "Show view count"
+msgstr "Afficher le nombre de vues"
+
+#: ../languages/video-embed-thumbnail-generator.php:2576
+#: ../languages/video-embed-thumbnail-generator.php:3739
+#: ../video-embed-thumbnail-generator.php:2576
+#: ../video-embed-thumbnail-generator.php:3739
+msgid "Choose a Thumbnail"
+msgstr "Choix d'une vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:2576
+#: ../languages/video-embed-thumbnail-generator.php:3739
+#: ../video-embed-thumbnail-generator.php:2576
+#: ../video-embed-thumbnail-generator.php:3739
+msgid "Set as video thumbnail"
+msgstr "Définir en tant que vignette pour la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:2581
+#: ../video-embed-thumbnail-generator.php:2581
+msgid "Display thumbnail image again when video ends."
+msgstr "Afficher la vignette quand la vidéo se termine."
+
+#: ../languages/video-embed-thumbnail-generator.php:2582
+#: ../video-embed-thumbnail-generator.php:2582
+msgid "Choose End of Video Image"
+msgstr "Choix d'une image de fin de vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:2582
+#: ../video-embed-thumbnail-generator.php:2582
+msgid "Set as end of video image"
+msgstr "Définir en tant qu'image de fin de vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:2583
+#: ../video-embed-thumbnail-generator.php:2583
+msgid "Display alternate image when video ends."
+msgstr "Afficher une des vignettes à la fin de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:2588
+#: ../languages/video-embed-thumbnail-generator.php:2916
+#: ../video-embed-thumbnail-generator.php:2588
+#: ../video-embed-thumbnail-generator.php:2916
+msgid "Choose a Watermark"
+msgstr "Choix d'un filigrane"
+
+#: ../languages/video-embed-thumbnail-generator.php:2588
+#: ../languages/video-embed-thumbnail-generator.php:2916
+#: ../video-embed-thumbnail-generator.php:2588
+#: ../video-embed-thumbnail-generator.php:2916
+msgid "Set as watermark"
+msgstr "Définir en tant que filigrane"
+
+#: ../languages/video-embed-thumbnail-generator.php:2593
+#: ../languages/video-embed-thumbnail-generator.php:2918
+#: ../video-embed-thumbnail-generator.php:2593
+#: ../video-embed-thumbnail-generator.php:2918
+msgid "left"
+msgstr "gauche"
+
+#: ../languages/video-embed-thumbnail-generator.php:2593
+#: ../video-embed-thumbnail-generator.php:2593
+msgid "center"
+msgstr "centre"
+
+#: ../languages/video-embed-thumbnail-generator.php:2593
+#: ../languages/video-embed-thumbnail-generator.php:2918
+#: ../video-embed-thumbnail-generator.php:2593
+#: ../video-embed-thumbnail-generator.php:2918
+msgid "right"
+msgstr "droite"
+
+#: ../languages/video-embed-thumbnail-generator.php:2604
+#: ../video-embed-thumbnail-generator.php:2604
+msgid "Make video player responsive."
+msgstr "Rendre le lecteur vidéo responsive. (adapté à la taille de l'écran)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2609
+#: ../video-embed-thumbnail-generator.php:2609
+msgid "Allow other content on the same line as the video."
+msgstr "Pemettre l'ajout de contenu sur la même ligne que la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:2614
+#: ../languages/video-embed-thumbnail-generator.php:2620
+#: ../languages/video-embed-thumbnail-generator.php:3752
+#: ../languages/video-embed-thumbnail-generator.php:4360
+#: ../video-embed-thumbnail-generator.php:2614
+#: ../video-embed-thumbnail-generator.php:2620
+#: ../video-embed-thumbnail-generator.php:3752
+#: ../video-embed-thumbnail-generator.php:4360
+msgid "Width:"
+msgstr "Largeur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2614
+#: ../languages/video-embed-thumbnail-generator.php:2620
+#: ../languages/video-embed-thumbnail-generator.php:3752
+#: ../languages/video-embed-thumbnail-generator.php:4360
+#: ../video-embed-thumbnail-generator.php:2614
+#: ../video-embed-thumbnail-generator.php:2620
+#: ../video-embed-thumbnail-generator.php:3752
+#: ../video-embed-thumbnail-generator.php:4360
+msgid "Height:"
+msgstr "Hauteur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2615
+#: ../video-embed-thumbnail-generator.php:2615
+msgid "Enlarge lower resolution videos to max width."
+msgstr "Agrandir les vidéos de faible résolution à la largeur maximale."
+
+#: ../languages/video-embed-thumbnail-generator.php:2615
+#: ../video-embed-thumbnail-generator.php:2615
+msgid ""
+"Usually if a video's resolution is less than the max width, the video player "
+"is set to the actual width of the video. Enabling this will always set the "
+"same width regardless of the quality of the video. When necessary you can "
+"override by setting the dimensions manually."
+msgstr ""
+"Habituellement, dans le cas où la résolution d'une vidéo est inférieure à la "
+"largeur maximum, le lecteur vidéo l'affiche telle quelle. Activer cette "
+"option fera en sorte d'uniformiser la largeur de la vidéo quelle qu'en soit "
+"la qualité. Vous pouvez aussi définir les dimensions manuellement si besoin."
+
+#: ../languages/video-embed-thumbnail-generator.php:2631
+#: ../video-embed-thumbnail-generator.php:2631
+msgid "docked"
+msgstr "fixe"
+
+#: ../languages/video-embed-thumbnail-generator.php:2632
+#: ../video-embed-thumbnail-generator.php:2632
+msgid "floating"
+msgstr "flottant"
+
+#: ../languages/video-embed-thumbnail-generator.php:2633
+#: ../languages/video-embed-thumbnail-generator.php:2657
+#: ../languages/video-embed-thumbnail-generator.php:2705
+#: ../languages/video-embed-thumbnail-generator.php:2794
+#: ../languages/video-embed-thumbnail-generator.php:2946
+#: ../video-embed-thumbnail-generator.php:2633
+#: ../video-embed-thumbnail-generator.php:2657
+#: ../video-embed-thumbnail-generator.php:2705
+#: ../video-embed-thumbnail-generator.php:2794
+#: ../video-embed-thumbnail-generator.php:2946
+msgid "none"
+msgstr "aucune"
+
+#: ../languages/video-embed-thumbnail-generator.php:2644
+#: ../video-embed-thumbnail-generator.php:2644
+msgid "Play automatically when page loads."
+msgstr ""
+"Démarrer automatiquement la lecture de la vidéo au chargement de la page."
+
+#: ../languages/video-embed-thumbnail-generator.php:2649
+#: ../video-embed-thumbnail-generator.php:2649
+msgid "Loop to beginning when video ends."
+msgstr "Répéter la lecture de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:2655
+#: ../video-embed-thumbnail-generator.php:2655
+msgid "metadata"
+msgstr "metadata"
+
+#: ../languages/video-embed-thumbnail-generator.php:2656
+#: ../video-embed-thumbnail-generator.php:2656
+msgid "auto"
+msgstr "auto"
+
+#: ../languages/video-embed-thumbnail-generator.php:2663
+#: ../video-embed-thumbnail-generator.php:2663
+msgctxt "Suggest not translating the words in quotation marks"
+msgid ""
+"Controls how much of a video to load before the user starts playback. Mobile "
+"browsers never preload any video information. Selecting \"metadata\" will "
+"load the height and width and format information along with a few seconds of "
+"the video in some desktop browsers. \"Auto\" will preload nearly a minute of "
+"video in most desktop browsers. \"None\" will prevent all data from "
+"preloading."
+msgstr ""
+"Control du nombre de vidéos à pré charger avant que l'utilisateur démarre le "
+"lecteur. À noter que les navigateurs mobiles ne préchargent pas les vidéos. "
+"Le fait de selectionner \"metadata\" chargera les information de dimensions "
+"de la vidéo et pour certains navigateurs, hors mobiles, quelques secondes de "
+"la vidéo.\"Auto\" chargera environ une minute de la vidéo dans la plupart "
+"des navigateurs (hors mobiles). \"Aucun\" empêchechera de pré-charger quoi "
+"que ce soit."
+
+#: ../languages/video-embed-thumbnail-generator.php:2668
+#: ../video-embed-thumbnail-generator.php:2668
+#, php-format
+msgid ""
+"Use %s for a nice, circular play button. Leave blank for the default square "
+"play button."
+msgstr ""
+"Utilisez %s pour un joli boutton de lecture circulaire. Laissez vide pour le "
+"boutton carré par défaut."
+
+#: ../languages/video-embed-thumbnail-generator.php:2668
+#: ../video-embed-thumbnail-generator.php:2668
+msgid "Or build your own CSS skin."
+msgstr "Ou bien développez votre propre skin en CSS."
+
+#: ../languages/video-embed-thumbnail-generator.php:2683
+#: ../video-embed-thumbnail-generator.php:2683
+#, php-format
+msgid "Use %s for a modern, circular play button."
+msgstr "Utilisez %s pour un boutton lecture moderne et circulaire."
+
+#: ../languages/video-embed-thumbnail-generator.php:2683
+#: ../video-embed-thumbnail-generator.php:2683
+msgid "Leave blank for the off-center square play button."
+msgstr "Laissez vide pour le boutton de lecture carré désaxé."
+
+#: ../languages/video-embed-thumbnail-generator.php:2689
+#: ../video-embed-thumbnail-generator.php:2689
+msgid "liveOrRecorded"
+msgstr "direct ou pré-enregistré"
+
+#: ../languages/video-embed-thumbnail-generator.php:2690
+#: ../video-embed-thumbnail-generator.php:2690
+msgid "live"
+msgstr "direct"
+
+#: ../languages/video-embed-thumbnail-generator.php:2691
+#: ../video-embed-thumbnail-generator.php:2691
+msgid "recorded"
+msgstr "pré-enregistré"
+
+#: ../languages/video-embed-thumbnail-generator.php:2692
+#: ../video-embed-thumbnail-generator.php:2692
+msgid "dvr"
+msgstr "dvr"
+
+#: ../languages/video-embed-thumbnail-generator.php:2704
+#: ../video-embed-thumbnail-generator.php:2704
+msgid "letterbox"
+msgstr "boîte aux lettres (letterbox)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2706
+#: ../video-embed-thumbnail-generator.php:2706
+msgid "stretch"
+msgstr "étiré"
+
+#: ../languages/video-embed-thumbnail-generator.php:2707
+#: ../video-embed-thumbnail-generator.php:2707
+msgid "zoom"
+msgstr "zoom"
+
+#: ../languages/video-embed-thumbnail-generator.php:2719
+#: ../video-embed-thumbnail-generator.php:2719
+msgid "Autohide controlbar."
+msgstr "Masquer automatiquement la barre de controle."
+
+#: ../languages/video-embed-thumbnail-generator.php:2724
+#: ../video-embed-thumbnail-generator.php:2724
+msgid "Overlay play button on poster frame."
+msgstr "Bouton Play visible en superposition sur l'image de démarrage."
+
+#: ../languages/video-embed-thumbnail-generator.php:2736
+#: ../video-embed-thumbnail-generator.php:2736
+msgid "Can make thumbnails"
+msgstr "Possibilité de générer des vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:2736
+#: ../video-embed-thumbnail-generator.php:2736
+msgid "Can encode videos"
+msgstr "Possibilité d'encoder"
+
+#: ../languages/video-embed-thumbnail-generator.php:2736
+#: ../video-embed-thumbnail-generator.php:2736
+msgid "Can view & modify other users encode queue"
+msgstr ""
+"Possibilité de voir et modifier la file d'attente d'encodage des autres "
+"utilisateurs"
+
+#: ../languages/video-embed-thumbnail-generator.php:2770
+#: ../video-embed-thumbnail-generator.php:2770
+msgid "Allow users to embed your videos on other sites."
+msgstr "Permettre aux utilisateurs d'intégrer vos vidéos sur d'autres sites."
+
+#: ../languages/video-embed-thumbnail-generator.php:2771
+#: ../video-embed-thumbnail-generator.php:2771
+msgctxt "\"Open Graph\" is a proper noun and might not need translation"
+msgid "Enable Open Graph video tags"
+msgstr "Activer le tag vidéo Open Graph"
+
+#: ../languages/video-embed-thumbnail-generator.php:2771
+#: ../video-embed-thumbnail-generator.php:2771
+msgid ""
+"Facebook and some other social media sites will use these tags to embed the "
+"first video in your post. For the majority of Facebook users who have "
+"enabled secure browsing, your video must be served via https in order to be "
+"embedded directly on the page."
+msgstr ""
+"Facebook et d'autres réseaux sociaux utilisent ces tags pour intégrer les  "
+"vidéos dans les publications. Pour la majorité des utilisateurs de Facebook "
+"qui ont activé la navigation sécurisée, votre vidéo doit être accessible via "
+"le protocole https afin de pouvoir être directement intégrée dans leur "
+"publication Facebook."
+
+#: ../languages/video-embed-thumbnail-generator.php:2772
+#: ../video-embed-thumbnail-generator.php:2772
+msgid "Allow right-clicking on videos."
+msgstr "Autoriser le click-droit sur les vidéos."
+
+#: ../languages/video-embed-thumbnail-generator.php:2772
+#: ../video-embed-thumbnail-generator.php:2772
+msgid ""
+"We can't prevent a user from simply saving the downloaded video file from "
+"the browser's cache, but disabling right-clicking will make it more "
+"difficult for casual users to save your videos."
+msgstr ""
+"Nous ne pouvons pas empêcher un utilisateur de récupérer la vidéo à partir "
+"du cache du navigateur, mais le fait de désactiver le click-droit "
+"découragera les utilisateurs occasionnels de procéder ainsi."
+
+#: ../languages/video-embed-thumbnail-generator.php:2777
+#: ../video-embed-thumbnail-generator.php:2777
+msgid "Set generated video thumbnails as featured images."
+msgstr "Définir la vignette générée en tant qu'image à la une."
+
+#: ../languages/video-embed-thumbnail-generator.php:2777
+#: ../video-embed-thumbnail-generator.php:2777
+msgid ""
+"If your theme uses the featured image meta tag, this will automatically set "
+"a video's parent post's featured image to the most recently saved thumbnail "
+"image."
+msgstr ""
+"Si votre thème utilise le meta tag image à la une (Featured Image), cela "
+"définira automatiquement la vignette la plus récente en tant qu'image à la "
+"une du post parent de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:2777
+#: ../video-embed-thumbnail-generator.php:2777
+msgctxt "implied \"Set all thumbnails as featured\""
+msgid "Set all as featured"
+msgstr "Définir toutes les vignettes en tant qu'image à la une."
+
+#: ../languages/video-embed-thumbnail-generator.php:2777
+#: ../video-embed-thumbnail-generator.php:2777
+msgid ""
+"If you've generated thumbnails before enabling this option, this will set "
+"all existing thumbnails as featured images. Be careful!"
+msgstr ""
+"Attention, si vous avez généré des vignettes avant d'activer cette option, "
+"cela definira toutes les vignettes existantes en tant qu'image à la une."
+
+#: ../languages/video-embed-thumbnail-generator.php:2788
+#: ../video-embed-thumbnail-generator.php:2788
+msgid ""
+"This depends on your theme. Thumbnails generated by the plugin can be saved "
+"as children of the video attachment or the post. Some themes use an image "
+"attached to a post instead of the built-in featured image meta tag. Version "
+"3.x of this plugin saved all thumbnails as children of the video."
+msgstr ""
+"Cela dépends de votre thème. Les vignettes générées par ce plugin peuvent "
+"être enregistrées comme \"enfant\" de la pièce joint vidéo ou du post. "
+"Certains thèmes utilisent une image en pièce jointe au lieu du meta tag "
+"image à la une (featured image). La version 3.x de ce plugin sauvegarde "
+"toutes les vignettes come \"enfants\" de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:2788
+#: ../video-embed-thumbnail-generator.php:2788
+msgid "Set all parents"
+msgstr "Définir tous les parents"
+
+#: ../languages/video-embed-thumbnail-generator.php:2788
+#: ../video-embed-thumbnail-generator.php:2788
+msgid ""
+"If you've generated thumbnails before changing this option, this will set "
+"all existing thumbnails as children of your currently selected option."
+msgstr ""
+"Si vous avez généré des vignettes avant de modifier cette option, cela va "
+"définir toutes les vignettes en tant qu'\"enfants\" de votre sélection "
+"courante."
+
+#: ../languages/video-embed-thumbnail-generator.php:2795
+#: ../video-embed-thumbnail-generator.php:2795
+msgid "all"
+msgstr "tous"
+
+#: ../languages/video-embed-thumbnail-generator.php:2796
+#: ../video-embed-thumbnail-generator.php:2796
+msgid "encoded videos only"
+msgstr "Vidéos encodées seulement"
+
+#: ../languages/video-embed-thumbnail-generator.php:2802
+#: ../video-embed-thumbnail-generator.php:2802
+msgid ""
+"If you delete the original video you can choose to delete all associated "
+"attachments (thumbnails & videos) or keep the thumbnail."
+msgstr ""
+"Si vous avez supprimé la vidéo originale, vous pouvez choisir de supprimer "
+"toutes les pièces jointes associées (vignettes & videos) ou bien garder les "
+"vignettes."
+
+#: ../languages/video-embed-thumbnail-generator.php:2807
+#: ../video-embed-thumbnail-generator.php:2807
+#, php-format
+msgid ""
+"HTML tag applied to titles inserted above the video. Examples: %s. "
+"Corresponding closing tags will be applied to the end of the title "
+"automatically."
+msgstr ""
+"Balise HTML appliqué pour les titre insérés au dessus de la vidéo. Example: "
+"%s. Correspondant à la balise fermante qui sera automatiquement appliquée à "
+"la fin du titre."
+
+#: ../languages/video-embed-thumbnail-generator.php:2812
+#: ../video-embed-thumbnail-generator.php:2812
+msgid "Match plugin settings"
+msgstr "Correspondre aux réglages du plugin"
+
+#: ../languages/video-embed-thumbnail-generator.php:2812
+#: ../video-embed-thumbnail-generator.php:2812
+msgid "WordPress default"
+msgstr "Lecteur WordPress par défaut"
+
+#: ../languages/video-embed-thumbnail-generator.php:2812
+#: ../video-embed-thumbnail-generator.php:2812
+msgid "Video only (deprecated)"
+msgstr "Vidéo seulement (déconseillé)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2818
+#: ../video-embed-thumbnail-generator.php:2818
+msgid ""
+"The plugin can filter your media attachment page to display videos using "
+"your chosen settings, or completely replace your attachment template to show "
+"only the video. If you were one of the few people using iframe embed codes "
+"before version 4.0 of this plugin then you should continue to use \"Video "
+"only\" but otherwise it's not recommended."
+msgstr ""
+"Par défaut Wordpress affiche seulement le titre de la vidéo sur la page de "
+"la pièce jointe. Ce plugin peut modifier votre page pièce jointe en y "
+"affichant la vidéo, ou bien complétement remplacer votre template pièce "
+"jointe pour y afficher seulement la vidéo. Si vous faîtes partie de ceux qui "
+"utilisent les iframes pour intégrer les vidéos depuis une version du plugin "
+"antérieure à la 4.0 alors vous pouvez continuez d'utiliser  \"Video seulement"
+"\", sinon ce n'est pas recommandé."
+
+#: ../languages/video-embed-thumbnail-generator.php:2832
+#: ../video-embed-thumbnail-generator.php:2832
+#, php-format
+msgid ""
+"This should be the folder where applications are installed on your server, "
+"not a direct path to an application, so it doesn't usually end with %1$s. "
+"Example: %2$s."
+msgstr ""
+"Il s'agit du dossier dans lequel les applications sont installées sur votre "
+"seveur, et non pas le chemin direct vers une application. Donc cela ne "
+"devrait pas finir par %1$s. Exemple: %2$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:2844
+#: ../video-embed-thumbnail-generator.php:2844
+msgid ""
+"FFMPEG split into two separate branches in 2011. The new branch is called "
+"LIBAV and executes using \"avconv\" instead of \"ffmpeg.\" Both are still "
+"actively developed and FFMPEG frequently incorporates LIBAV features. Debian "
+"& Ubuntu users probably have LIBAV installed."
+msgstr ""
+"FFMPEG est divisé en deux branches depuis 2011. La nouvelle branches "
+"s'appelle LIBAV et s'exécute en utilisant \"avconv\" au lieu de \"ffmpeg\". "
+"Le developpement des deux branches est toujours maintenu activement et "
+"FFMPEG inclut des fonctionnalité de LIBAV. Les utilisateur Debian & Ubuntu "
+"ont probablement LIBAV d'installé."
+
+#: ../languages/video-embed-thumbnail-generator.php:2850
+#: ../video-embed-thumbnail-generator.php:2850
+#, php-format
+msgid ""
+"When possible, use the browser's built-in video capabilities to make "
+"thumbnails instead of %s."
+msgstr ""
+"Si possible, utiliser les fonctionnalités vidéos natives du navigateur pour "
+"générer des vignettes au lieu d'utiliser celles de %s."
+
+#: ../languages/video-embed-thumbnail-generator.php:2857
+#: ../video-embed-thumbnail-generator.php:2857
+msgid "Replace original with same resolution H.264"
+msgstr "Remplace l'original avec la même résolution H.264"
+
+#: ../languages/video-embed-thumbnail-generator.php:2857
+#: ../video-embed-thumbnail-generator.php:2857
+msgid ""
+"If you have FFMPEG/LIBAV and the proper libraries installed, you can choose "
+"to replace your uploaded video with an H.264 video, and also transcode into "
+"as many as five additional formats depending on the resolution of your "
+"original source. Different browsers have different playback capabilities. "
+"Most desktop browsers can play H.264, and all modern mobile devices can play "
+"at least 480p H.264. If you create multiple H.264 resolutions, the highest "
+"resolution supported by the device will be served up automatically. The "
+"plugin will not upconvert your video, so if you upload a 720p video, it will "
+"not waste your time creating a 1080p version. There was a time when it "
+"seemed like a good idea to provide OGV or WEBM for some desktop browsers, "
+"but even Firefox allows H.264 playback on Windows now. I no longer recommend "
+"encoding OGV or WEBM unless you expect a large number of no-Flash sticklers "
+"visiting your site."
+msgstr ""
+"Si vous avez FFMPEG ou LIBAV ainsi que les bibliothèque appropriées "
+"installées, vous pouvez alors choisir de remplacer la vidéo uploadée par une "
+"vidéo encodée en H.264 et aussi la déclinée dans cinq formats additionnels "
+"selon la résolution originale de la vidéo source. Selon les navigateurs, les "
+"fonctions de lecture varient. La plupart des navigateur d'ordinateur de "
+"bureau ou portable peuvent lire le format H.264, et tous les terminaux "
+"mobiles peuvent au moins lire le H.264 en 480p. Si vous créez plusieurs "
+"fichier H.264 à différentes résolutions, la résolution la plus haute "
+"supporté par l'appareil sera chargée automatiquement. Le plugin ne peut pas "
+"améliorer la qualité des vidéos, donc si par exemple vous uploader une vidéo "
+"en 720p, ce n'est pas la peine de perdre du temps et de l'espace à la "
+"convertir en 1080p. À une époque, il était bien vu d'avoir une version OGV "
+"ou WEBM pour certain navigateurs, mais de nos jours, même Firefox peut lire "
+"du H.264. Du coup nous ne recommandons plus d'encoder les vidéos dans ce "
+"formats à moins de viser une audience anti flash player."
+
+#: ../languages/video-embed-thumbnail-generator.php:2858
+#: ../video-embed-thumbnail-generator.php:2858
+msgid ""
+"(iPhone 4s+, iPad 2+, modern Android, Windows Phone 8, Chrome, Safari, IE "
+"9+, Firefox Windows)"
+msgstr ""
+"(iPhone 4s+, iPad 2+, modern Android, Windows Phone 8, Chrome, Safari, IE "
+"9+, Firefox Windows)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2859
+#: ../video-embed-thumbnail-generator.php:2859
+msgid "(iPhone 4+, iPad, most Android, Chrome, Safari, IE 9+, Firefox Windows)"
+msgstr ""
+"(iPhone 4+, iPad, most Android, Chrome, Safari, IE 9+, Firefox Windows)"
+
+#: ../languages/video-embed-thumbnail-generator.php:2880
+#: ../video-embed-thumbnail-generator.php:2880
+#, php-format
+msgid "Generate %1$s thumbnail from %2$s%% of the way through the video."
+msgid_plural "Generate %1$s thumbnails and set #%2$s as the main image."
+msgstr[0] "Génèrer %1$s vignette à partir de %2$s%%  de la vidéo."
+msgstr[1] ""
+"Génèrer %1$s vignettes et définir la %2$s ème comme image principale."
+
+#: ../languages/video-embed-thumbnail-generator.php:2888
+#: ../video-embed-thumbnail-generator.php:2888
+msgid "Encode formats selected above."
+msgstr "Encoder aux formats selectionnés ci dessus."
+
+#: ../languages/video-embed-thumbnail-generator.php:2908
+#: ../video-embed-thumbnail-generator.php:2908
+msgid "Username:"
+msgstr "Nom d'utilisateur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2909
+#: ../video-embed-thumbnail-generator.php:2909
+msgid "Password:"
+msgstr "Mot de passe:"
+
+#: ../languages/video-embed-thumbnail-generator.php:2909
+#: ../video-embed-thumbnail-generator.php:2909
+#, php-format
+msgid ""
+"If your videos are htaccess protected, %s will access them using these "
+"credentials."
+msgstr ""
+"Si vos vidéos sont protégées par un fichier htaccess, %s y aura accès en "
+"utilisant ces identifiants."
+
+#: ../languages/video-embed-thumbnail-generator.php:2917
+#: ../video-embed-thumbnail-generator.php:2917
+#, php-format
+msgid "Scale: %s%% of video covered by the watermark."
+msgstr "Echelle: %s%% de la vidéo couverte par le filigrane."
+
+#: ../languages/video-embed-thumbnail-generator.php:2918
+#: ../video-embed-thumbnail-generator.php:2918
+msgctxt "horizontal center"
+msgid "center"
+msgstr "centre"
+
+#: ../languages/video-embed-thumbnail-generator.php:2919
+#: ../video-embed-thumbnail-generator.php:2919
+msgid "Horizontal align:"
+msgstr "Alignement Horizontal"
+
+#: ../languages/video-embed-thumbnail-generator.php:2926
+#: ../languages/video-embed-thumbnail-generator.php:2936
+#: ../video-embed-thumbnail-generator.php:2926
+#: ../video-embed-thumbnail-generator.php:2936
+msgid "offset"
+msgstr "offset"
+
+#: ../languages/video-embed-thumbnail-generator.php:2928
+#: ../video-embed-thumbnail-generator.php:2928
+msgid "Vertical align:"
+msgstr "Alignement Vertical"
+
+#: ../languages/video-embed-thumbnail-generator.php:2930
+#: ../video-embed-thumbnail-generator.php:2930
+msgid "top"
+msgstr "haut"
+
+#: ../languages/video-embed-thumbnail-generator.php:2930
+#: ../video-embed-thumbnail-generator.php:2930
+msgctxt "vertical center"
+msgid "center"
+msgstr "centre"
+
+#: ../languages/video-embed-thumbnail-generator.php:2930
+#: ../video-embed-thumbnail-generator.php:2930
+msgid "bottom"
+msgstr "bas"
+
+#: ../languages/video-embed-thumbnail-generator.php:2952
+#: ../video-embed-thumbnail-generator.php:2952
+#, php-format
+msgid ""
+"By default %1$s places moov atoms at the end of H.264 encoded files, which "
+"forces the entire file to download before playback can start and can prevent "
+"Flash players from playing them at all. Since approximately October 2012 "
+"%1$s can fix the problem at the end of the encoding process by using the "
+"option `movflags faststart`. This is the easiest and fastest way to correct "
+"the problem, but older versions of %1$s will not work if you select the "
+"movflags option. If you can't update to a new version of %1$s, select qt-"
+"faststart or MP4Box which will run after encoding is finished if they are "
+"installed on your server."
+msgstr ""
+"Par défaut %1s place le moov atom à la fin du fichier encodé en H.264, ce "
+"qui force le fichier à être télécharger en entier avant de pouvoir lancer la "
+"lecture et cela peut même faire bugger le flash player. Depuis "
+"approximativement octobre 2012 %1$s peut régler le problème à la fin du "
+"processus d'encodage grâce à l'option 'movflags faststart'. C'est la façon "
+"la plus simple et la plus rapide pour corriger ce défaut, mais les version "
+"plus vieilles de %1$s ne fonctionneront pas si vous selectionnez l'option "
+"movflags. Si vous ne pouvez pas mettre à jour vers une nouvelle version de "
+"%1$s, slectionnez alors qt-faststart ou MP4Box qui se lanceront après la fin "
+"de l'encodage s'ils sont installé sur votre serveur."
+
+#: ../languages/video-embed-thumbnail-generator.php:2965
+#: ../video-embed-thumbnail-generator.php:2965
+msgid ""
+"Constant Rate Factor (CRF) attempts to maintain a particular quality output "
+"for the entire video and only uses bits the encoder determines are "
+"necessary. Average Bit Rate is similar to the method used in older versions "
+"of this plugin. If CRF is selected, WEBM encoding will also use the ABR "
+"setting to set a max bit rate 25% higher than the ABR. Without a max bit "
+"rate setting WEBM files are terrible quality."
+msgstr ""
+"Le Constant Rate Factor (CRF) tente de maintenir une certain qualité de "
+"sortie pour la vidéo dans son intégralité et utilise seulement les bits que "
+"l'encodur détermine comme étant necessaires. L'Average Bit Rate (ABR) est "
+"similaire à la méthode utilisée dans les versions  précèdentes du plugin. Si "
+"CRF est selectionné, l'encodage WEBM utilisera alors le réglage ABR pour "
+"obtenir un bitrate 25% supérieur à celui de l'ABR. Sans un bitrate maximum, "
+"le format WEBM offre une qualité désastreuse."
+
+#: ../languages/video-embed-thumbnail-generator.php:2977
+#: ../video-embed-thumbnail-generator.php:2977
+msgid ""
+"Lower values are higher quality. 18 is considered visually lossless. Default "
+"is 23."
+msgstr ""
+"Plus les valeurs sont faibles meilleure est la qualité. 18 est considéré "
+"comme visuellement sans perte. 23 est la valeur par défaut."
+
+#: ../languages/video-embed-thumbnail-generator.php:2984
+#: ../video-embed-thumbnail-generator.php:2984
+msgid "Lower values are higher quality. Default is 10."
+msgstr ""
+"Plus les valeurs sont faibles meilleure est la qualité. 10 est la valeur par "
+"défaut."
+
+#: ../languages/video-embed-thumbnail-generator.php:2991
+#: ../video-embed-thumbnail-generator.php:2991
+msgid "Higher values are higher quality. Default is 6."
+msgstr ""
+"Plus les valeures sont hautes, meilleure est la qualité. 6 est la valeur par "
+"défaut."
+
+#: ../languages/video-embed-thumbnail-generator.php:3003
+#: ../video-embed-thumbnail-generator.php:3003
+msgid "bits per pixel."
+msgstr "bits par pixel."
+
+#: ../languages/video-embed-thumbnail-generator.php:3003
+#: ../video-embed-thumbnail-generator.php:3003
+msgid "Default is 0.1"
+msgstr "0.1 est la valeur par défaut."
+
+#: ../languages/video-embed-thumbnail-generator.php:3019
+#: ../video-embed-thumbnail-generator.php:3019
+msgctxt "H.264 profile. Might not need translation"
+msgid "profile"
+msgstr "profil"
+
+#: ../languages/video-embed-thumbnail-generator.php:3019
+#: ../video-embed-thumbnail-generator.php:3019
+msgid ""
+"Lower profiles will slightly increase file sizes. This mostly depends on "
+"your need for compatability with Android devices. Main profile seems to work "
+"on recent phones, although officially Android only supports baseline. High "
+"profile is not recommended for mobile or Flash compatibility, and anything "
+"above high is designed for professional video and probably incompatible with "
+"consumer devices. Older versions of FFMPEG might ignore this setting "
+"altogether."
+msgstr ""
+"Les profils les plus bas augmenterons de manière significative la taille du "
+"fichier. Cela dépend surtout de votre besoin de compatibilité avec les "
+"appareil Android. Les  profgils principaux semblent fonctionner sur les "
+"téléphones récents, bien qu'officiellement Android supporte seulement les "
+"profils basiques. Les profils eélevé ne sont pas recommandés pour les "
+"appareils mobile ou pour une compatibilité flash, et tous les profils au "
+"dessus sont fait pour une utilisation professionnelle et certainement "
+"incompatible avec les appareil grand public. Les vieille version d'FFMPEG "
+"ignoreront certainement ces profils."
+
+#: ../languages/video-embed-thumbnail-generator.php:3026
+#: ../video-embed-thumbnail-generator.php:3026
+msgctxt "H.264 level. Might not need translation"
+msgid "level"
+msgstr "level"
+
+#: ../languages/video-embed-thumbnail-generator.php:3026
+#: ../video-embed-thumbnail-generator.php:3026
+msgid ""
+"3.0 is default. Lower levels will lower maximum bit rates and decoding "
+"complexity. This mostly depends on your need for compatability with mobile "
+"devices. Older versions of FFMPEG might ignore this setting altogether."
+msgstr ""
+"3.0 est la valeur par défaut. Des niveau plus faibles réduiront le bitrate "
+"maximumet la complexité de décodage. Cela dépend surtout de votre besoin de "
+"compatibilité avec les appareils mobiles. Les vieille version d'FFMPEG "
+"risquent d'ignorer ces réglages."
+
+#: ../languages/video-embed-thumbnail-generator.php:3046
+#: ../video-embed-thumbnail-generator.php:3046
+msgid "Enable legacy FFMPEG \"-b\" and \"-ba\" bitrate flags."
+msgstr "Activer l'héritage FFMPEG \"-b\" et \"-ba\" bitrate flags."
+
+#: ../languages/video-embed-thumbnail-generator.php:3046
+#: ../video-embed-thumbnail-generator.php:3046
+msgid ""
+"Enable if your installed version of FFMPEG is old enough that you can't use "
+"the newer -b:v flags (Dreamhost users must turn this on). It may cause newer "
+"versions of FFMPEG to fail."
+msgstr ""
+"À activer si votre version de FFMPEG installée est assez vieille pour ne pas "
+"supporter les nouveaux -b:v flags (Les utilisateur avec un serveur Dreamhost "
+"doivent activer cette option). Sinon cela peut entrainer des bugs sur les "
+"version plus récente d'FFMPEG."
+
+#: ../languages/video-embed-thumbnail-generator.php:3047
+#: ../video-embed-thumbnail-generator.php:3047
+msgid "Enable legacy FFMPEG parameters."
+msgstr "Activer l'héritage des paramètres FFMPEG."
+
+#: ../languages/video-embed-thumbnail-generator.php:3047
+#: ../video-embed-thumbnail-generator.php:3047
+msgid ""
+"Enable if your installed version of FFMPEG is old enough that libx264 "
+"requires additional configuration to operate (Dreamhost users must turn this "
+"on). This should help if you can encode WEBM or OGV files but H264/Mobile "
+"files fail. It could cause newer versions of FFMPEG to fail."
+msgstr ""
+"À activer si votre version d'FFMPEG est assez vieille si bien que libx264 "
+"requière une configuration pout fonctionner (Les utilisateurs Dreamhost "
+"doivent activer ça). Cela devrait aider si vous encoder des fichier WEBM ou "
+"OGV, en revanche ça ne marchera pas pour les H264/Mobiles. Cela peut faire "
+"bugger les version récentes d'FFMPEG."
+
+#: ../languages/video-embed-thumbnail-generator.php:3060
+#: ../video-embed-thumbnail-generator.php:3060
+msgid "Simultaneous encodes."
+msgstr "Encodages simultanés."
+
+#: ../languages/video-embed-thumbnail-generator.php:3060
+#: ../video-embed-thumbnail-generator.php:3060
+#, php-format
+msgid ""
+"Increasing the number will allow %1$s to encode more than one file at a "
+"time, but may lead to %1$s monopolizing system resources."
+msgstr ""
+"Augmenter le nombre permettra à %1$s d'encoder plus un fichier à la fois, "
+"mais peut conduire %1$s à monopoliser les ressources systèmes."
+
+#: ../languages/video-embed-thumbnail-generator.php:3067
+#: ../video-embed-thumbnail-generator.php:3067
+msgctxt "CPU threads. Might not need translating"
+msgid "threads"
+msgstr "threads"
+
+#: ../languages/video-embed-thumbnail-generator.php:3067
+#: ../video-embed-thumbnail-generator.php:3067
+#, php-format
+msgid ""
+"Default is 1, which limits encoding speed but prevents encoding from using "
+"too many system resources. Selecting 0 will allow %1$s to optimize the "
+"number of threads or you can set the number manually. This may lead to %1$s "
+"monopolizing system resources."
+msgstr ""
+"La valeur par défaut est 1 ce qui limite la vitesse d'encodage mais empêche "
+"l'encodage de pomper trop de ressources. Le fait de selectionner 0 permettra "
+"à %1$s d'optimiser le nombre de threads. Vous pouvez aussi définir le nombre "
+"manuellement. Cela peut conduire %1$s à monopoliser les ressources système."
+
+#: ../languages/video-embed-thumbnail-generator.php:3069
+#: ../video-embed-thumbnail-generator.php:3069
+msgctxt "execute program"
+msgid "Run"
+msgstr "Exécuter"
+
+#: ../languages/video-embed-thumbnail-generator.php:3069
+#: ../video-embed-thumbnail-generator.php:3069
+#, php-format
+msgid ""
+"Tells %1$s to run at a lower priority to avoid monopolizing system resources."
+msgstr ""
+"Faire que %1$s s'exécute en priorité basse pour éviter de monopoliser les "
+"ressources système."
+
+#: ../languages/video-embed-thumbnail-generator.php:3103
+#: ../video-embed-thumbnail-generator.php:3103
+#, php-format
+msgid "%1$s sample %2$s encode command"
+msgstr "Sample de %1$s avec commande d'encodage %2$s "
+
+#: ../languages/video-embed-thumbnail-generator.php:3104
+#: ../video-embed-thumbnail-generator.php:3104
+#, php-format
+msgid "%s test output:"
+msgstr "%s test de sortie"
+
+#: ../languages/video-embed-thumbnail-generator.php:3104
+#: ../video-embed-thumbnail-generator.php:3104
+#, php-format
+msgid "For help interpreting this output, %s try our Wiki page on Github"
+msgstr ""
+"Pour obtenir de l'aide afin d'interprêter cette sortie, %s essayez de "
+"consulter notre wiki sur Github"
+
+#: ../languages/video-embed-thumbnail-generator.php:3287
+#: ../video-embed-thumbnail-generator.php:3287
+#, php-format
+msgid ""
+"%1$s is disabled in PHP settings. You can embed existing videos and make "
+"thumbnails with compatible browsers, but video encoding will not work. "
+"Contact your System Administrator to find out if you can enable %1$s."
+msgstr ""
+"%1$s est désactiver dans la configuration de PHP. Vous pouvez intégrer des "
+"vidéos existantes et générer des vignettes avec les navigateurs compatibles, "
+"mais l'encodage ne fonctionnera pas. Contactez votre administrateur système "
+"pour voir comment activer %1$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:3295
+#: ../video-embed-thumbnail-generator.php:3295
+#, php-format
+msgid ""
+"%1$s is not executing correctly at %2$s. You can embed existing videos and "
+"make thumbnails with compatible browsers, but video encoding is not possible "
+"without %1$s."
+msgstr ""
+"%1$s n'a pas été trouvé dans %2$s. Vous pouvez intégrer des vidéos et "
+"générer des vignettes avec les navigateurs compatibles, mais l'encodage "
+"n'est pas possible sans %1$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:3295
+#: ../video-embed-thumbnail-generator.php:3295
+msgid "Error message:"
+msgstr "Erreur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:3310
+#: ../video-embed-thumbnail-generator.php:3310
+msgid "Video Embed & Thumbnail Generator settings reset to default values."
+msgstr "Remise par défaut des réglages de Video Embed & Thumbnail Generator."
+
+#: ../languages/video-embed-thumbnail-generator.php:3321
+#: ../video-embed-thumbnail-generator.php:3321
+msgid "You must enter a value for the maximum video width."
+msgstr "Vous devez entrer une valeur pour la largeur maximum de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:3325
+#: ../video-embed-thumbnail-generator.php:3325
+msgid "You must enter a value for the maximum video height."
+msgstr "Vous devez entrer une valeur pour la hauteur maximum de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:3329
+#: ../video-embed-thumbnail-generator.php:3329
+msgid "You must enter a value for the maximum gallery video width."
+msgstr ""
+"Vous devez entrer une valeur pour la largeur maximum de la gallerie vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:3333
+#: ../video-embed-thumbnail-generator.php:3333
+msgid "You must enter a value for the maximum gallery video height."
+msgstr ""
+"Vous devez entrer une valeur pour la hauteur maximum de la gallerie vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:3621
+#: ../video-embed-thumbnail-generator.php:3621
+msgid "Video Stats"
+msgstr "Statistiques des vidéos"
+
+#: ../languages/video-embed-thumbnail-generator.php:3623
+#: ../video-embed-thumbnail-generator.php:3623
+#, php-format
+msgid "%1$s Starts, %2$s Complete Views"
+msgstr "%1$s démarrages, %2$s vues complètes"
+
+#: ../languages/video-embed-thumbnail-generator.php:3649
+#: ../video-embed-thumbnail-generator.php:3649
+#, php-format
+msgid ""
+"%1$s not found at %2$s and unable to load video in browser for thumbnail "
+"generation."
+msgstr ""
+"%1$s n'a pas été trouvé dans at %2$s impossible de charger la vidéo dans le "
+"navigateur pour génèrer des vignettes."
+
+#: ../languages/video-embed-thumbnail-generator.php:3724
+#: ../video-embed-thumbnail-generator.php:3724
+msgctxt "Button text. Implied \"Generate thumbnails\""
+msgid "Generate"
+msgstr "Génèrer"
+
+#: ../languages/video-embed-thumbnail-generator.php:3725
+#: ../video-embed-thumbnail-generator.php:3725
+msgctxt "Button text. Implied \"Randomize thumbnail generation\""
+msgid "Randomize"
+msgstr "Classer dans un ordre aléatoire"
+
+#: ../languages/video-embed-thumbnail-generator.php:3726
+#: ../video-embed-thumbnail-generator.php:3726
+msgid "Force 1st frame thumbnail"
+msgstr "Forcer la 1ère image à devenir la vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:3728
+#: ../languages/video-embed-thumbnail-generator.php:4348
+#: ../video-embed-thumbnail-generator.php:3728
+#: ../video-embed-thumbnail-generator.php:4348
+msgid "Thumbnail timecode:"
+msgstr "Timecode de la vignette:"
+
+#: ../languages/video-embed-thumbnail-generator.php:3732
+#: ../video-embed-thumbnail-generator.php:3732
+msgctxt "Header for thumbnail section"
+msgid "Thumbnails"
+msgstr "Vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:3740
+#: ../languages/video-embed-thumbnail-generator.php:4349
+#: ../video-embed-thumbnail-generator.php:3740
+#: ../video-embed-thumbnail-generator.php:4349
+msgid "Set thumbnail as featured image"
+msgstr "Définir la vignette en tant qu'image à la une"
+
+#: ../languages/video-embed-thumbnail-generator.php:3742
+#: ../languages/video-embed-thumbnail-generator.php:4354
+#: ../video-embed-thumbnail-generator.php:3742
+#: ../video-embed-thumbnail-generator.php:4354
+msgid "Thumbnail URL"
+msgstr "URL de la vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:3744
+#: ../languages/video-embed-thumbnail-generator.php:4356
+#: ../video-embed-thumbnail-generator.php:3744
+#: ../video-embed-thumbnail-generator.php:4356
+#, php-format
+msgid "Leave blank to use %sdefault thumbnail"
+msgstr "Laisser vide pour utiliser la vignette par défaut de %s"
+
+#: ../languages/video-embed-thumbnail-generator.php:3750
+#: ../video-embed-thumbnail-generator.php:3750
+msgid "Video Embed Dimensions"
+msgstr "Dimensions de la vidéo à intégrer"
+
+#: ../languages/video-embed-thumbnail-generator.php:3755
+#: ../video-embed-thumbnail-generator.php:3755
+msgid "Lock to aspect ratio"
+msgstr "Maintenir le rapport proportionnel"
+
+#: ../languages/video-embed-thumbnail-generator.php:3756
+#: ../languages/video-embed-thumbnail-generator.php:4361
+#: ../video-embed-thumbnail-generator.php:3756
+#: ../video-embed-thumbnail-generator.php:4361
+#, php-format
+msgid "Leave blank to use %sdefault dimensions"
+msgstr "Laisser vide pour utiliser les dimension par défaut de %s"
+
+#: ../languages/video-embed-thumbnail-generator.php:3761
+#: ../languages/video-embed-thumbnail-generator.php:4365
+#: ../video-embed-thumbnail-generator.php:3761
+#: ../video-embed-thumbnail-generator.php:4365
+msgid "Additional Formats"
+msgstr "Formats additonnels"
+
+#: ../languages/video-embed-thumbnail-generator.php:3782
+#: ../video-embed-thumbnail-generator.php:3782
+msgctxt "captions track"
+msgid "Track"
+msgstr "Piste"
+
+#: ../languages/video-embed-thumbnail-generator.php:3786
+#: ../video-embed-thumbnail-generator.php:3786
+msgctxt "two-letter code indicating track's language"
+msgid "Language code:"
+msgstr "Code de langue:"
+
+#: ../languages/video-embed-thumbnail-generator.php:3787
+#: ../languages/video-embed-thumbnail-generator.php:4371
+#: ../video-embed-thumbnail-generator.php:3787
+#: ../video-embed-thumbnail-generator.php:4371
+msgid "Label:"
+msgstr "Label:"
+
+#: ../languages/video-embed-thumbnail-generator.php:3791
+#: ../languages/video-embed-thumbnail-generator.php:4370
+#: ../video-embed-thumbnail-generator.php:3791
+#: ../video-embed-thumbnail-generator.php:4370
+msgid "Subtitles & Captions"
+msgstr "Sous-titres & Légendes"
+
+#: ../languages/video-embed-thumbnail-generator.php:3793
+#: ../video-embed-thumbnail-generator.php:3793
+msgid "Add track"
+msgstr "Ajouter une piste"
+
+#: ../languages/video-embed-thumbnail-generator.php:3804
+#: ../video-embed-thumbnail-generator.php:3804
+msgid "Single Video"
+msgstr "Vidéo unique"
+
+#: ../languages/video-embed-thumbnail-generator.php:3804
+#: ../video-embed-thumbnail-generator.php:3804
+msgid "Video Gallery"
+msgstr "Gallerie Vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:3812
+#: ../video-embed-thumbnail-generator.php:3812
+msgid "Video Embed Options"
+msgstr "Option de la vidéo à intégrer"
+
+#: ../languages/video-embed-thumbnail-generator.php:3815
+#: ../video-embed-thumbnail-generator.php:3815
+msgid "Insert title above video"
+msgstr "Inserer un titre au dessus de la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:3817
+#: ../video-embed-thumbnail-generator.php:3817
+msgid "Insert download link below video"
+msgstr "Insérer un lien de téléchargement sous la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:3817
+#: ../video-embed-thumbnail-generator.php:3817
+msgid "Makes it easier for users to download file."
+msgstr "Rend le téléchargement plus facile pour les utilisateurs."
+
+#: ../languages/video-embed-thumbnail-generator.php:3818
+#: ../video-embed-thumbnail-generator.php:3818
+msgctxt "verb"
+msgid "Insert"
+msgstr "Type d'insertion"
+
+#: ../languages/video-embed-thumbnail-generator.php:3851
+#: ../video-embed-thumbnail-generator.php:3851
+msgid "Gallery Settings (all optional)"
+msgstr "Réglages de la gallerie (facultatif)"
+
+#: ../languages/video-embed-thumbnail-generator.php:3853
+#: ../video-embed-thumbnail-generator.php:3853
+msgid "Thumbnail Width"
+msgstr "Largeur des vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:3854
+#: ../video-embed-thumbnail-generator.php:3854
+msgid "Order By"
+msgstr "Classer par"
+
+#: ../languages/video-embed-thumbnail-generator.php:3855
+#: ../video-embed-thumbnail-generator.php:3855
+msgid "Sort Order"
+msgstr "Trier par"
+
+#: ../languages/video-embed-thumbnail-generator.php:3856
+#: ../video-embed-thumbnail-generator.php:3856
+msgid "Exclude"
+msgstr "Exclure"
+
+#: ../languages/video-embed-thumbnail-generator.php:3857
+#: ../video-embed-thumbnail-generator.php:3857
+msgid "Include"
+msgstr "Inclure"
+
+#: ../languages/video-embed-thumbnail-generator.php:3858
+#: ../video-embed-thumbnail-generator.php:3858
+msgid "Post ID"
+msgstr "Post ID"
+
+#: ../languages/video-embed-thumbnail-generator.php:4036
+#: ../video-embed-thumbnail-generator.php:4036
+msgctxt "text appended to newly created thumbnail titles"
+msgid "thumbnail"
+msgstr "vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:4301
+#: ../video-embed-thumbnail-generator.php:4301
+msgctxt "Title in \"Add Media\" popup sidebar"
+msgid "Embed Video from URL"
+msgstr "Intégrer une vidéo à partir d'une URL"
+
+#: ../languages/video-embed-thumbnail-generator.php:4330
+#: ../video-embed-thumbnail-generator.php:4330
+msgid "Video Title"
+msgstr "Titre de la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:4332
+#: ../video-embed-thumbnail-generator.php:4332
+msgid "Add an optional header above the video."
+msgstr "Ajoute un titre au dessus de la vidéo (facultatif)."
+
+#: ../languages/video-embed-thumbnail-generator.php:4337
+#: ../video-embed-thumbnail-generator.php:4337
+msgid "Specify the URL of the video file."
+msgstr "Spécifier l'URL du fichier vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:4341
+#: ../video-embed-thumbnail-generator.php:4341
+msgid "Thumbnails"
+msgstr "Vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:4343
+#: ../video-embed-thumbnail-generator.php:4343
+msgid "Number of Thumbnails"
+msgstr "Nombre de vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:4346
+#: ../video-embed-thumbnail-generator.php:4346
+msgid "Force 1st Frame Thumbnail"
+msgstr "Forcer la 1re image à devenir vignette"
+
+#: ../languages/video-embed-thumbnail-generator.php:4359
+#: ../video-embed-thumbnail-generator.php:4359
+msgid "Dimensions"
+msgstr "Diemensions"
+
+#: ../languages/video-embed-thumbnail-generator.php:4360
+#: ../video-embed-thumbnail-generator.php:4360
+msgid "Lock to Aspect Ratio"
+msgstr "Maintenir l'aspect proportionnel"
+
+#: ../languages/video-embed-thumbnail-generator.php:4374
+#: ../video-embed-thumbnail-generator.php:4374
+msgid "Generate Download Link Below Video"
+msgstr "Génèrer un lien de téléchargement sous la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:4374
+#: ../video-embed-thumbnail-generator.php:4374
+msgid "Makes it easier for users to download video file"
+msgstr "Rend le téléchargement plus facile pour les utilisateurs."
+
+#: ../languages/video-embed-thumbnail-generator.php:4379
+#: ../video-embed-thumbnail-generator.php:4379
+msgid "Insert into Post"
+msgstr "Insérer dans un post"
+
+#: ../languages/video-embed-thumbnail-generator.php:4433
+#: ../video-embed-thumbnail-generator.php:4433
+msgctxt "example video"
+msgid "Sample Video"
+msgstr "Exemple de vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:4434
+#: ../video-embed-thumbnail-generator.php:4434
+msgid "Sample Embed Code"
+msgstr "Exemple de code d'intégration"
+
+#: ../languages/video-embed-thumbnail-generator.php:4435
+#: ../video-embed-thumbnail-generator.php:4435
+msgid ""
+"If text is entered in the attachment's caption field it is displayed here "
+"automatically."
+msgstr ""
+"Si du texte est entré dans le champs de légende de la vidéo en pièce jointe, "
+"il sera affiché ici automatiquement."
+
+#: ../languages/video-embed-thumbnail-generator.php:4661
+#: ../languages/video-embed-thumbnail-generator.php:4800
+#: ../video-embed-thumbnail-generator.php:4661
+#: ../video-embed-thumbnail-generator.php:4800
+msgid "Can't open movie file."
+msgstr "Impossible d'ouvrir le fichier vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:4778
+#: ../video-embed-thumbnail-generator.php:4778
+#, php-format
+msgid "%1$s updated in existing queue entry in position %2$s."
+msgstr "%1$s mis à jour dans la file d'attente en position %2$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:4779
+#: ../video-embed-thumbnail-generator.php:4779
+#, php-format
+msgid "Video is already queued in position %s."
+msgstr "La vidéo est déjà dans la file d'attente en position %s."
+
+#: ../languages/video-embed-thumbnail-generator.php:4786
+#: ../video-embed-thumbnail-generator.php:4786
+msgid "Starting"
+msgstr "Démarrage"
+
+#: ../languages/video-embed-thumbnail-generator.php:4787
+#: ../video-embed-thumbnail-generator.php:4787
+#, php-format
+msgid "%1$s added to queue in position %2$s."
+msgstr "%1$s a été ajouté à la file d'attente en position %2$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:4791
+#: ../video-embed-thumbnail-generator.php:4791
+msgid "Nothing to encode."
+msgstr "Rien à encoder."
+
+#: ../languages/video-embed-thumbnail-generator.php:4853
+#: ../video-embed-thumbnail-generator.php:4853
+#, php-format
+msgid ""
+"Error: %1$s not found. Verify that %1$s is installed at %2$s and check the "
+"%3$sapplication path plugin setting"
+msgstr ""
+"Erreur: %1$s non trouvé. Verifiez que %2$s soit installé dans %2$s ainsi que "
+"le paramétrage du chemin de l'application %3$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:4956
+#: ../video-embed-thumbnail-generator.php:4956
+#, php-format
+msgid "%s already encoded"
+msgstr "%s déjà encodé"
+
+#: ../languages/video-embed-thumbnail-generator.php:4960
+#: ../video-embed-thumbnail-generator.php:4960
+#, php-format
+msgid "%s missing library libx264 required for H.264 encoding"
+msgstr "%s a besoin de la bibliothèque libx264 requise pour l'encodage H.264"
+
+#: ../languages/video-embed-thumbnail-generator.php:4965
+#: ../video-embed-thumbnail-generator.php:4965
+msgid "or"
+msgstr "ou"
+
+#: ../languages/video-embed-thumbnail-generator.php:4966
+#: ../video-embed-thumbnail-generator.php:4966
+#, php-format
+msgid ""
+"and missing an AAC encoding library. Please install and enable libx264 and %s"
+msgstr ""
+"et a aussi besoin de la bibliothèque d'encodage AAC. Veuillez installer et "
+"activer libx264 et %s"
+
+#: ../languages/video-embed-thumbnail-generator.php:4970
+#: ../languages/video-embed-thumbnail-generator.php:4988
+#: ../video-embed-thumbnail-generator.php:4970
+#: ../video-embed-thumbnail-generator.php:4988
+msgid "Missing libraries"
+msgstr "Bibliothèques manquantes"
+
+#: ../languages/video-embed-thumbnail-generator.php:4979
+#: ../video-embed-thumbnail-generator.php:4979
+#, php-format
+msgid "Encoding %s"
+msgstr "Encodage %s"
+
+#: ../languages/video-embed-thumbnail-generator.php:4985
+#: ../video-embed-thumbnail-generator.php:4985
+#, php-format
+msgid "%1$s missing library %2$s required for %3$s encoding."
+msgstr ""
+"%1$s a besoin de la bibliothèque manquante %2$s, requise pour encoder %3$s."
+
+#: ../languages/video-embed-thumbnail-generator.php:4991
+#: ../video-embed-thumbnail-generator.php:4991
+#, php-format
+msgid "%s already encoded."
+msgstr "%s déjà encodé."
+
+#: ../languages/video-embed-thumbnail-generator.php:5004
+#: ../video-embed-thumbnail-generator.php:5004
+msgid "Error: Command 'escapeshellcmd' is disabled on your server."
+msgstr "Erreur: La commande 'escapeshellcmd' est désactivée sur votre server."
+
+#: ../languages/video-embed-thumbnail-generator.php:5189
+#: ../languages/video-embed-thumbnail-generator.php:5199
+#: ../video-embed-thumbnail-generator.php:5189
+#: ../video-embed-thumbnail-generator.php:5199
+msgid "Encoding"
+msgstr "Encodage"
+
+#: ../languages/video-embed-thumbnail-generator.php:5192
+#: ../video-embed-thumbnail-generator.php:5192
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../languages/video-embed-thumbnail-generator.php:5195
+#: ../video-embed-thumbnail-generator.php:5195
+msgid "Elapsed:"
+msgstr "Ecoulé:"
+
+#: ../languages/video-embed-thumbnail-generator.php:5195
+#: ../video-embed-thumbnail-generator.php:5195
+msgid "Remaining:"
+msgstr "Restant:"
+
+#: ../languages/video-embed-thumbnail-generator.php:5195
+#: ../video-embed-thumbnail-generator.php:5195
+msgctxt "Frames per second"
+msgid "FPS:"
+msgstr "FPS:"
+
+#: ../languages/video-embed-thumbnail-generator.php:5272
+#: ../languages/video-embed-thumbnail-generator.php:5301
+#: ../video-embed-thumbnail-generator.php:5272
+#: ../video-embed-thumbnail-generator.php:5301
+msgid "Encoding Complete"
+msgstr "Encodage terminé"
+
+#: ../languages/video-embed-thumbnail-generator.php:5311
+#: ../video-embed-thumbnail-generator.php:5311
+msgid "Encoding was canceled."
+msgstr "L'encodage a été annulé."
+
+#: ../languages/video-embed-thumbnail-generator.php:5322
+#: ../video-embed-thumbnail-generator.php:5322
+msgid "No log file"
+msgstr "Pas de fichier log"
+
+#: ../languages/video-embed-thumbnail-generator.php:5329
+#: ../video-embed-thumbnail-generator.php:5329
+msgid "Error:"
+msgstr "Erreur:"
+
+#: ../languages/video-embed-thumbnail-generator.php:5341
+#: ../video-embed-thumbnail-generator.php:5341
+msgid "Waiting..."
+msgstr "Attente..."
+
+#: ../languages/video-embed-thumbnail-generator.php:5504
+#: ../video-embed-thumbnail-generator.php:5504
+msgid "Fixing moov atom for streaming"
+msgstr "Ajustement de moov atom pour le streaming"
+
+#: ../languages/video-embed-thumbnail-generator.php:5996
+#: ../video-embed-thumbnail-generator.php:5996
+msgid "Video Embed & Thumbnail Generator Shortcode Reference"
+msgstr "Video Embed & Thumbnail Generator - Réfèrence des Shortcodes"
+
+#: ../languages/video-embed-thumbnail-generator.php:5997
+#: ../video-embed-thumbnail-generator.php:5997
+msgid "Use these optional attributes in the [KGVID] shortcode:"
+msgstr "Utilisez ces attributs optionnels dans le shortcode [KGVID]:"
+
+#: ../languages/video-embed-thumbnail-generator.php:5998
+#: ../video-embed-thumbnail-generator.php:5998
+msgid "video attachment ID (instead of using a URL)."
+msgstr "ID de la pièce jointe vidéo (au lieu d'utiliser une URL)"
+
+#: ../languages/video-embed-thumbnail-generator.php:5999
+#: ../video-embed-thumbnail-generator.php:5999
+msgid "number of attached videos to display if no URL or ID is given."
+msgstr ""
+"nombre de vidéos en pièces jointes à afficher si aucune URL ni ID n'est "
+"fourni."
+
+#: ../languages/video-embed-thumbnail-generator.php:6000
+#: ../video-embed-thumbnail-generator.php:6000
+msgid "criteria for sorting attached videos if no URL or ID is given."
+msgstr ""
+"critère de tri pour les pièces jointes vidéos si aucun URL ni ID n'est "
+"fourni."
+
+#: ../languages/video-embed-thumbnail-generator.php:6001
+#: ../video-embed-thumbnail-generator.php:6001
+msgid "sort order."
+msgstr "ordre de tri."
+
+#: ../languages/video-embed-thumbnail-generator.php:6002
+#: ../video-embed-thumbnail-generator.php:6002
+msgid "sets the thumbnail."
+msgstr "définie la vignette."
+
+#: ../languages/video-embed-thumbnail-generator.php:6003
+#: ../video-embed-thumbnail-generator.php:6003
+msgid "sets the image shown when the video ends."
+msgstr "définie l'image suivante à la fin de la vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:6007
+#: ../video-embed-thumbnail-generator.php:6007
+msgid "allow other content on the same line as the video"
+msgstr ""
+"permettre l'ajoute de contenu suplémentaire sur la même ligne que la vidéo"
+
+#: ../languages/video-embed-thumbnail-generator.php:6008
+#: ../video-embed-thumbnail-generator.php:6008
+msgid "pre-sets the volume for unusually loud videos. Value between 0 and 1."
+msgstr ""
+"pré réglage du volume pour les vidéos inhabituellement fortes. Valeur entre "
+"0 et 1."
+
+#: ../languages/video-embed-thumbnail-generator.php:6009
+#: ../video-embed-thumbnail-generator.php:6009
+msgid ""
+"sets the controlbar position. \"Floating\" option only works with Strobe "
+"Media Playback."
+msgstr ""
+"définie la position de la bar de control. L'option \"Flottant\" ne marche "
+"qu'avec le Strobe Media Playback."
+
+#: ../languages/video-embed-thumbnail-generator.php:6012
+#: ../languages/video-embed-thumbnail-generator.php:6013
+#: ../video-embed-thumbnail-generator.php:6012
+#: ../video-embed-thumbnail-generator.php:6013
+#, php-format
+msgid "or %s to disable."
+msgstr "ou %s pour désactiver."
+
+#: ../languages/video-embed-thumbnail-generator.php:6014
+#: ../video-embed-thumbnail-generator.php:6014
+#, php-format
+msgid ""
+"changes text displayed in the embed code overlay in order to provide a "
+"custom method for embedding a video or %s to disable."
+msgstr ""
+"change le texte affiché dans le code d'intégration afin de  fournir une "
+"méthode personnalisée pour intégrer une vidéo ou %s pour désactiver."
+
+#: ../languages/video-embed-thumbnail-generator.php:6015
+#: ../video-embed-thumbnail-generator.php:6015
+msgid "turns the view count on or off."
+msgstr "activer ou non le comptabilisation des vues."
+
+#: ../languages/video-embed-thumbnail-generator.php:6016
+#: ../video-embed-thumbnail-generator.php:6016
+msgid ""
+"text that is displayed below the video (not subtitles or closed captioning)"
+msgstr ""
+"le texte qui est affiché en dessous de la vidéo (pas les sous-titres ni la "
+"légende)"
+
+#: ../languages/video-embed-thumbnail-generator.php:6017
+#: ../video-embed-thumbnail-generator.php:6017
+msgid "Used for metadata only."
+msgstr "Utilisé pour les metadata seulement."
+
+#: ../languages/video-embed-thumbnail-generator.php:6018
+#: ../video-embed-thumbnail-generator.php:6018
+msgid ""
+"generates a link below the video to make it easier for users to save the "
+"video file to their computers."
+msgstr ""
+"génère un lien sous la vidéo pour rendre plus aisé le téléchargement du "
+"fichier vidéo pour l'utilisateur."
+
+#: ../languages/video-embed-thumbnail-generator.php:6019
+#: ../video-embed-thumbnail-generator.php:6019
+msgid "allow or disable right-clicking on the video player."
+msgstr "permettre ou interdire le click-droit sur la lecteur vidéo."
+
+#: ../languages/video-embed-thumbnail-generator.php:6020
+#: ../video-embed-thumbnail-generator.php:6020
+msgid "allow or disable responsive resizing."
+msgstr ""
+"activer ou désactiver le redimmensionnement responsive (adataptation à la "
+"taille de l'écran)"
+
+#: ../languages/video-embed-thumbnail-generator.php:6022
+#: ../video-embed-thumbnail-generator.php:6022
+msgid "These options will add a subtitle/caption track."
+msgstr "Ces options ajoutent un piste de sous-titres/légende."
+
+#: ../languages/video-embed-thumbnail-generator.php:6023
+#: ../video-embed-thumbnail-generator.php:6023
+msgid "URL of the WebVTT file."
+msgstr "URL du fichier WebVTT."
+
+#: ../languages/video-embed-thumbnail-generator.php:6025
+#: ../video-embed-thumbnail-generator.php:6025
+msgid "the track's two-character language code (en, fr, es, etc)"
+msgstr "Le code language de la piste (en, fr, es etc...)"
+
+#: ../languages/video-embed-thumbnail-generator.php:6026
+#: ../video-embed-thumbnail-generator.php:6026
+msgid "text that will be shown to the user when selecting the track."
+msgstr ""
+"le text qui sera affiché à l'utilisateur quand il selectionnera la piste."
+
+#: ../languages/video-embed-thumbnail-generator.php:6028
+#: ../video-embed-thumbnail-generator.php:6028
+msgid "These options will only affect Video.js playback"
+msgstr "Ces options affecteront seulement Video.js"
+
+#: ../languages/video-embed-thumbnail-generator.php:6029
+#: ../languages/video-embed-thumbnail-generator.php:6038
+#: ../video-embed-thumbnail-generator.php:6029
+#: ../video-embed-thumbnail-generator.php:6038
+#, php-format
+msgid "Completely change the look of the video player. %sInstructions here."
+msgstr ""
+"Changer complétement l'apparence du lecteur vidéo. Les instructions de %s "
+"sont ici."
+
+#: ../languages/video-embed-thumbnail-generator.php:6031
+#: ../video-embed-thumbnail-generator.php:6031
+msgid ""
+"These options will only affect Flash playback in Strobe Media Playback video "
+"elements. They will have no effect on other players."
+msgstr ""
+"Ces options affectent uniquement le playback Flash dans les éléments Strobe "
+"Media Playback. Ils n'auront pas d'incidences sur les autres lecteurs."
+
+#: ../languages/video-embed-thumbnail-generator.php:6032
+#: ../video-embed-thumbnail-generator.php:6032
+msgid "specify whether to autohide the control bar after a few seconds."
+msgstr ""
+"spécifiez s'il faut masquer automatiquement la barre de control après "
+"quelques secondes."
+
+#: ../languages/video-embed-thumbnail-generator.php:6033
+#: ../video-embed-thumbnail-generator.php:6033
+msgid "turns the big play button overlay in the middle of the video on or off."
+msgstr ""
+"mets le gros boutton \"lire\" au millieu de la vidéo sur on ou sur off."
+
+#: ../languages/video-embed-thumbnail-generator.php:6034
+#: ../video-embed-thumbnail-generator.php:6034
+msgid "I honestly don't know what this is for."
+msgstr "En toute honnêteté, je ne sais pas ce dont il s'agit."
+
+#: ../languages/video-embed-thumbnail-generator.php:6035
+#: ../video-embed-thumbnail-generator.php:6035
+msgid ""
+"If the video display size isn't the same as the video file, this determines "
+"how the video will be scaled."
+msgstr ""
+"Si la taille d'affichage de la vidéo n'est pas la même que celle du fichier "
+"vidéo, cela détermine comment la vidéo va être mise à l'échelle."
+
+#: ../languages/video-embed-thumbnail-generator.php:6036
+#: ../video-embed-thumbnail-generator.php:6036
+msgid "#rrggbb"
+msgstr "Code hexadécimal de type #rrggbb"
+
+#: ../languages/video-embed-thumbnail-generator.php:6036
+#: ../video-embed-thumbnail-generator.php:6036
+msgid "set the background color to whatever hex code you want."
+msgstr ""
+"définie la couleur d'arrière plan selon le code hexdécimal de votre choix."
+
+#: ../languages/video-embed-thumbnail-generator.php:6037
+#: ../video-embed-thumbnail-generator.php:6037
+msgid "Lets you specify all these flashvars in an XML file."
+msgstr "Vous laisse spécifier toutes ces flashvars dans un fichier XML."
+
+#: ../languages/video-embed-thumbnail-generator.php:6040
+#: ../video-embed-thumbnail-generator.php:6040
+msgid ""
+"These options are available for video galleries (options work the same as "
+"standard WordPress image galleries)"
+msgstr ""
+"Ces options sont disponibles pour les galleries vidéos (les options "
+"fonctionnent de la même façon que les galleries WordPress standards)"
+
+#: ../languages/video-embed-thumbnail-generator.php:6041
+#: ../video-embed-thumbnail-generator.php:6041
+msgid "turns on the gallery"
+msgstr "active la gallerie"
+
+#: ../languages/video-embed-thumbnail-generator.php:6042
+#: ../video-embed-thumbnail-generator.php:6042
+msgid "width in pixels to display gallery thumbnails"
+msgstr "largeur en pixels pour afficher la gallery de vignettes"
+
+#: ../languages/video-embed-thumbnail-generator.php:6043
+#: ../video-embed-thumbnail-generator.php:6043
+msgid ""
+"comma separated video attachment IDs. Excludes the videos from the gallery."
+msgstr ""
+"IDs des vidéos en pièces jointes séparées par des virgules. Exclue les "
+"vidéos de la gallery."
+
+#: ../languages/video-embed-thumbnail-generator.php:6044
+#: ../video-embed-thumbnail-generator.php:6044
+msgid ""
+"comma separated video attachment IDs. Includes only these videos in the "
+"gallery. Please note that include and exclude cannot be used together."
+msgstr ""
+"IDs des vidéos en pièces jointes séparées par des virgules. Inclue seulement "
+"ces vidéos dans la gallery. Notez que les fonctionnalités d'inclusion et "
+"d'exclusion ne peuvent être utilisées en même temps."
+
+#: ../languages/video-embed-thumbnail-generator.php:6045
+#: ../video-embed-thumbnail-generator.php:6045
+msgid "criteria for sorting the gallery"
+msgstr "critères de tri de la gallerie"
+
+#: ../languages/video-embed-thumbnail-generator.php:6046
+#: ../video-embed-thumbnail-generator.php:6046
+msgid "sort order"
+msgstr "ordre de tri"
+
+#: ../languages/video-embed-thumbnail-generator.php:6047
+#: ../video-embed-thumbnail-generator.php:6047
+msgid ""
+"post ID to display a gallery made up of videos associated with a different "
+"post."
+msgstr ""
+"ID du post pour afficher une gallerie constituée de vidéos associées à un "
+"post différent."
+
+#: ../languages/video-embed-thumbnail-generator.php:6048
+#: ../video-embed-thumbnail-generator.php:6048
+msgid ""
+"either close the pop-up or start playing the next video when the current "
+"video finishes playing."
+msgstr ""
+"fermeture du popup ou démarrage de la vidéo suivante dès que la vidéo "
+"courante touche à sa fin."
+
+#~ msgid "Video title (WP default)"
+#~ msgstr "Titre de la Vidéo (par défaut)"
+
+#~ msgid "Video in existing template"
+#~ msgstr "Vidéo dans un template existant"
