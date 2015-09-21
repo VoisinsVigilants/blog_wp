@@ -69,9 +69,11 @@
             <div style="clear: both"></div>
         </div>
 
+        <!--
         <div>
             <a href="/ambassadeurs/"><img style="padding: 0 1%" width="98%" src="<?php echo get_template_directory_uri();?>/img/ambassadeur.png" ></a>
         </div>
+        -->
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
