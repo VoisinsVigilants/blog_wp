@@ -110,10 +110,10 @@ class WP_Router_Sample {
         $tmp .= "<div class='list-img'>
         <div class='small-img'><a href='$lienAlsace'><img src='$alsace'></a></div><div class='small-img'><a href='$lienNordPasDeCalais'><img src='$nordPasDeCalais'></a></div><div class='big-img'><a href='$lienIleDeFrance'><img src='$ileDeFrance'></a></div>
         <div class='small-img'><a href='$lienLorraine'><img src='$lorraine'></a></div><div class='big-img'><a href='$lienChampagneArdenne'><img src='$champagneArdenne'></a></div><div class='small-img'><a href='$lienAquitaine'><img src='$aquitaine'></a></div>
-        <div class='big-img'><a href='$lienPaysDeLaLoire'><img src='$paysDeLaLoire'></a></div><div class='small-img'><a href='$lienLanguedocRoussillon'><img src='$languedocRoussillon'></a></div>
-        <div class='small-img'><img src='$francheComte'></div><div class='small-img'><img src='$hauteNormandie'></div><div class='big-img'><img src='$auvergne'></div><div class='small-img'><img src='$bretagne'></div><div class='small-img'><img src='$bourgogne'></div>
+        <div class='big-img'><a href='$lienPaysDeLaLoire'><img src='$paysDeLaLoire'></a></div><div class='small-img'><a href='$lienLanguedocRoussillon'><img src='$languedocRoussillon'></a></div><div class='small-img'><a href='$lienPaca'><img src='$paca'></a></div>
+        <div class='small-img'><img src='$hauteNormandie'></div><div class='big-img'><img src='$auvergne'></div><div class='small-img'><img src='$bretagne'></div><div class='small-img'><img src='$bourgogne'></div>
         <div class='small-img'><img src='$corse'></div><div class='big-img'><img src='$limousin'></div><div class='small-img'><img src='$basse_normandie'></div>
-        <div class='small-img'><img src=$centre></div><div class='big-img'><img src='$midiPyrenees'></div><div class='small-img'><img src='$paca'></div>
+        <div class='small-img'><img src=$centre></div><div class='big-img'><img src='$midiPyrenees'></div><div class='small-img'><img src='$francheComte'></div>
         <div class='small-img'><img src='$picardie'></div><div class='big-img'><img src='$poitouCharente'></div>
         <div class='big-img'><img src='$rhoneAlpes'></div>
         </div>";
